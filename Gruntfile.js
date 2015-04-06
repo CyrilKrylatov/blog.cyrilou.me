@@ -38,8 +38,7 @@ module.exports = function(grunt) {
                     '404.html'
                 ],
                 tasks: [
-                    'cssmin',
-                    'shell:jekyllServe'
+                    'shell:jekyllBuild'
                 ],
                 options: {
                     spawn: false,
@@ -51,7 +50,7 @@ module.exports = function(grunt) {
                     'assets/css/*.css'
                 ],
                 tasks: [
-                    'cssmin'
+                    'cssmin', 'shell:jekyllServe'
                 ],
                 options: {
                     spawn: false,
@@ -63,6 +62,7 @@ module.exports = function(grunt) {
         }
     });
 
-    grunt.registerTask('deploy', ['cssmin', 'shell:jekyllBuild'])
+    grunt.registerTask('default', ['shell:jekyllServe', 'watch']);
+    grunt.registerTask('deploy', ['cssmin', 'shell:jekyllBuild']);
 
 };
