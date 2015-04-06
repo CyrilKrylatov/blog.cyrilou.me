@@ -14,7 +14,7 @@ tags:
 Il y a un peu plus de 3 ans, pas encore 4, j&rsquo;écrivais un article sur [un sujet qui me passionne][1] qui est le rap français. Sujet toujours autant passionnant chez moi, qui prend de l&rsquo;ampleur quand il ne se passe pas une seule journée sans que j&rsquo;écoute un morceau, un album ou des freestyles du même artiste.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/10/animalerie.png" alt="L&#039;Animalerie" title="L&#039;Animalerie" width="640" height="360" class="size-full wp-image-428" />
+  <img src="/uploads/2012/10/animalerie.png" alt="L&#039;Animalerie" title="L&#039;Animalerie" width="640" height="360" class="size-full wp-image-428" />
 </p>
 
 <!--more-->

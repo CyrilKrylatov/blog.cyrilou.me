@@ -23,7 +23,7 @@ Pour poser les bases, j&rsquo;ai un prestashop installé quelque part sur Intern
 Partant de là, quelle n&rsquo;a pas été ma surprise de recevoir ce mail tout à l&rsquo;heure :
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2013/11/SCREENSHOT_SATAN.png" alt="SCREENSHOT_SATAN" width="579" height="425" class="alignnone size-full wp-image-566" />
+  <img src="/uploads/2013/11/SCREENSHOT_SATAN.png" alt="SCREENSHOT_SATAN" width="579" height="425" class="alignnone size-full wp-image-566" />
 </p>
 
 De là, étonnement : comment ils ont pu retrouver ma shop ? Réponse : &laquo;&nbsp;crawler maison&nbsp;&raquo; :

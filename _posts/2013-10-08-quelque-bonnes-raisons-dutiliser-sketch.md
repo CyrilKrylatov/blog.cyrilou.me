@@ -27,7 +27,7 @@ Ensuite, je vais diviser ce retour d&rsquo;expérience en deux parties. La premi
 **Le premier point** qui m&rsquo;a charmé dans Sketch, dès que je l&rsquo;ai ouvert, c&rsquo;est le côté vectoriel de la chose. C&rsquo;est peut être con, mais si tu zoomes à 3200% tu n&rsquo;auras pas les horribles pixels dégueux à la Photoshop qui vont s&rsquo;afficher, et c&rsquo;est pas plus mal.
 
 <div class="image-align to-right">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2013/10/ss-7.png" alt="Sketch.app : CSS directement dans le pannel" width="207" height="664" class="size-full wp-image-552" /></p> 
+  <img src="/uploads/2013/10/ss-7.png" alt="Sketch.app : CSS directement dans le pannel" width="207" height="664" class="size-full wp-image-552" /></p> 
   
   <p>
     Le deuxième, c&rsquo;est de pouvoir clic-droit sur un élément et &laquo;&nbsp;Copy CSS Attributes&nbsp;&raquo; qui va, en un mot comme en cent, copier les propriétés CSS qui vont bien de l&rsquo;élément ciblé.<br /> <br />C&rsquo;est-à-dire que le logiciel va traduire en CSS ce qu&rsquo;on met dans le pannel. Enfin, tout ce qui est possible de faire en CSS : color / font-family / font-size / line-height / text-shadow (pour de la typo, par ex) etc, les gradients sur un bouton, et j&rsquo;en passe. Et ça, c&rsquo;est un gain de temps énorme, vous vous en doutez.
@@ -40,7 +40,7 @@ Je vous parle pas de la sortie des gradients qui est parfois complètement pourr
 **Le deuxième point** est la très bonne compréhension de la typo par Sketch. Ainsi, la bordure qui apparait sur un élément lorsqu&rsquo;il est sélectionné correspond bien à la taille réelle de la typo comme nous pouvons le voir sur le screen suivant :
 
 <p style="text-align: center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2013/10/ss-9.png" alt="Sketch : bonne utilisation des typos" width="596" height="230" class="size-full wp-image-554" />
+  <img src="/uploads/2013/10/ss-9.png" alt="Sketch : bonne utilisation des typos" width="596" height="230" class="size-full wp-image-554" />
 </p>
 
 Bon, je ne suis pas sûr de bien pouvoir arriver à expliquer ce phénomène, vous savez, cet espèce d&rsquo;espace mort qui entoure une typo.
@@ -55,7 +55,7 @@ Cette méthode de mesure combinée à la très bonne utilisation de la sorte d&r
 Processus plutôt long que ne connaît pas Sketch et qui n&rsquo;est vraiment pas négligeable tant d&rsquo;un point de vue pratique que gain de temps.
 
 <div class="image-align to-right">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2013/10/ss-10.png" alt="Sketch permet d&#039;émuler un dossier de DA." width="181" height="368" class="alignnone size-full wp-image-555" /></p> 
+  <img src="/uploads/2013/10/ss-10.png" alt="Sketch permet d&#039;émuler un dossier de DA." width="181" height="368" class="alignnone size-full wp-image-555" /></p> 
   
   <p>
     <strong>Quatrième point</strong>, assez sympa, c&rsquo;est qu&rsquo;un .sketch peut contenir plusieurs créas, au même titre qu&rsquo;un dossier peut contenir plusieurs fichiers.

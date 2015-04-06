@@ -22,7 +22,7 @@ Très vite, inscription sur Facebook, Twitter etc. Je reçois toute les notifica
 Alors la, frénésie. Je me renseigne sur les libellés, les filtres, glanant informations, surtout l&rsquo;article de Gonzague &laquo;&nbsp;[Inbox Zéro : comment je (tente) de gérer mes mails][2]&laquo;&nbsp;. Je m&rsquo;inspire très vivement de son explication des libellés, des filtres, de l&rsquo;archivage. Hop, ni une ni deux, création des libellés.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/10/Capture-d’écran-2011-10-13-à-13.59.05.png" alt="Libellés sous Gmail" title="Libellés sous Gmail" width="449" height="522" class="alignnone size-full wp-image-237" />
+  <img src="/uploads/2011/10/Capture-d’écran-2011-10-13-à-13.59.05.png" alt="Libellés sous Gmail" title="Libellés sous Gmail" width="449" height="522" class="alignnone size-full wp-image-237" />
 </p>
 
 L&rsquo;intérêt de ces libellés sera créer différentes inbox et ensuite pouvoir archiver nos mails. Cette option est intéressant, encore plus intéressante si vous créez des filtres : dès réception d&rsquo;un mail de Twitter, en fonction du contenu, je peux le labellisé sous *Communauté/Twitter/NomDuCompte*. Il arrive en inbox déjà labellisé, je regarde son contenu et hop, archivage, on en entend plus parler.  
@@ -35,7 +35,7 @@ Concernant les différentes inbox, je me suis tout simplement inspiré de [cet a
 Les miennes sont crées comme suit :
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/10/Capture-d’écran-2011-10-13-à-14.24.56.png" alt="3 inbox + libellés" title="3 inbox + libellés" width="560" height="734" class="alignnone size-full wp-image-238" />
+  <img src="/uploads/2011/10/Capture-d’écran-2011-10-13-à-14.24.56.png" alt="3 inbox + libellés" title="3 inbox + libellés" width="560" height="734" class="alignnone size-full wp-image-238" />
 </p>
 
 La première, bien évidemment les mails non-lus. Ils sont pour la plupart labellisés. Si ce n&rsquo;est pas le cas, je créé soit un label parce que le mail vient d&rsquo;un nouveau site auquel je me suis inscris, soit c&rsquo;est un mail perso qui héritera du label */perso/A traiter/*. Il faut absolument que cette inbox soit le plus vide possible, pour être le plus tranquille et ne pas se dire &laquo;&nbsp;tiens, je dois traiter ce mail&nbsp;&raquo; : en le labellisant et en le changeant d&rsquo;inbox, alors vous avez fait déjà 1/4 sinon la moitié de son traitement.

@@ -25,7 +25,7 @@ De ce fait, what to do: donner une taille aux TD de la taille des img enfants, d
 Et moi, vous avez pu le voir sur mon [premier outil avec les colonnes là][1], les tâches répétitives ont tendance à m&rsquo;ennuyer sec. De ce fait, allez, c&rsquo;est cadeau :
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/04/psd2html.jpg" alt="Un autre outil de la flemme ultime : Newsletter.psd to proper HTML" title="Un autre outil de la flemme ultime : Newsletter.psd to proper HTML" width="640" height="516" />
+  <img src="/uploads/2012/04/psd2html.jpg" alt="Un autre outil de la flemme ultime : Newsletter.psd to proper HTML" title="Un autre outil de la flemme ultime : Newsletter.psd to proper HTML" width="640" height="516" />
 </p>
 
 Pas de design, pas d&rsquo;autre fonctionnalité, on va au plus simple : l&rsquo;outil fait ce qu&rsquo;on lui demande et basta (j&rsquo;en profite pour en placer une pour monsieur mon DT).

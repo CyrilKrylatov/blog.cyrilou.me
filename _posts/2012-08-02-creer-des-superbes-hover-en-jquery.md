@@ -25,7 +25,7 @@ Après, on peut me reprocher que mes animations ne se feront pas sur IE9-. Ce su
 Du coup, j&rsquo;avais une petite heure à rien faire, et j&rsquo;ai fait ça :
 
 <p style="text-align:center;">
-  <a href="https://github.com/DaPo/CSSHover"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/08/hover.jpg" alt="hover plz" title="hover plz" width="640" height="340" /></a>
+  <a href="https://github.com/DaPo/CSSHover"><img src="/uploads/2012/08/hover.jpg" alt="hover plz" title="hover plz" width="640" height="340" /></a>
 </p>
 
 Un petit .html, un petit .css, et hop, j&rsquo;ai refait les animations de l&rsquo;article sus-cité. En pur CSS. Rien de bien méchant, je ne me proclame pas roi du CSS ici.  

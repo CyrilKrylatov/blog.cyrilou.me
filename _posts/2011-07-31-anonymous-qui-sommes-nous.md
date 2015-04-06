@@ -16,7 +16,7 @@ tags:
 Comme d&rsquo;[autres articles][2], celui là aura pour but de provoquer le débat, que chacun donne sa vision des choses.*
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/07/anon_2.jpg" alt="Anonymous" title="Anonymous" width="640" height="512" class="size-full wp-image-141" /></a>
+  <img src="/uploads/2011/07/anon_2.jpg" alt="Anonymous" title="Anonymous" width="640" height="512" class="size-full wp-image-141" /></a>
 </p>
 
 <!--more-->
@@ -34,7 +34,7 @@ S&rsquo;est alors montée une véritable communauté de personnes ayant inventé
 Cette communauté très dissoute, se rendant compte qu&rsquo;elle est devenue finalement communauté, s&rsquo;est regroupée derrière un logo qui prend tout son sens ici.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/07/anon_3.jpg" alt="Anonymous" title="Anonymous" width="640" height="350" class="alignnone size-full wp-image-148" />
+  <img src="/uploads/2011/07/anon_3.jpg" alt="Anonymous" title="Anonymous" width="640" height="350" class="alignnone size-full wp-image-148" />
 </p>
 
 Un costard-cravate des plus simples que tout le monde peut porter, un &laquo;&nbsp;?&nbsp;&raquo; en guise d&rsquo;identité physique rappelant l&rsquo;anonymat, bref, un logo représentant monsieur tout le monde. Monsieur tout le monde peut être un Anonymous, monsieur tout le monde peut prendre part sous cette célèbre phrase qui récapitule le groupe le plus ordonné des désordonnés des groupes.
@@ -50,7 +50,7 @@ Je ne m&rsquo;étendrai pas sur ce point *Lulz* là d&rsquo;*Anonymous*, préfé
 De cette force d&rsquo;anonymat et du nombre sur 4chan (et spécialement sur la célèbre *board* [/b][8]) est apparue ce que nous pouvons considérer comme la première (médiatiquement, du moins) forme d&rsquo;hacktivisme d&rsquo;*Anonymous* qu&rsquo;a été l&rsquo;Eglise de Scientologie.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/07/anon_1.jpg" alt="Anons VS Scientology" title="Anons VS Scientology" width="640" height="389" class="size-full wp-image-140" />
+  <img src="/uploads/2011/07/anon_1.jpg" alt="Anons VS Scientology" title="Anons VS Scientology" width="640" height="389" class="size-full wp-image-140" />
 </p>
 
 Basiquement, cette communauté d&rsquo;Anonymous sur 4chan a statué sur le fait que l&rsquo;Eglise de Scientologie était une vaste blague (surtout après un discours de Tom Cruise, d&rsquo;ailleurs) et qu&rsquo;il fallait faire quelque chose. A été organisé, un peu partout dans le monde, des manifestations anti scientologie. Manifestation sous couvert d&rsquo;anonymat, comme vous pouvez le voir sur cette photo.  
@@ -61,7 +61,7 @@ Les choses ainsi faites, Anonymous prenant conscience de sa force de frappe, a d
 Ces opérations ont étés l&rsquo;*[OpPayBack][10]* (la HADOPI américaine avait DDoS des sites de Torrents, Anonymous les a DDoS en retour), l&rsquo;*[OpLeakSpin][11]* (lors du scandale WikiLeaks, Anonymous a participé à sa propagation en fournissant des serveurs pouvant abriter ces données et également protéger Julien Assange, investigateur de WikiLeaks) ou encore les diverses opérations en Tunisie ou Egypte (Anonymous a aidé ces peuples à contourner les censures gouvernementales (entre autre)), et plus récemment l&rsquo;OpAntiSec qui découle du groupe LulzSec : mettre à pieds des sites dits &laquo;&nbsp;importants&nbsp;&raquo; avec de simples requêtes SQL.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/07/antisec.jpg" alt="AntiSec" title="AntiSec" width="640" height="399" class="alignnone size-full wp-image-144" />
+  <img src="/uploads/2011/07/antisec.jpg" alt="AntiSec" title="AntiSec" width="640" height="399" class="alignnone size-full wp-image-144" />
 </p>
 
 Merveilleuse Transition.
@@ -71,7 +71,7 @@ Merveilleuse Transition.
 LulzSec est Anonymous, Anonymous n&rsquo;est pas LulzSec. Anonymous, niveau hacktivisme, dans 90% des cas, ne fait &laquo;&nbsp;que&nbsp;&raquo; rendre indisponible les sites via des [attaques DDoS][12]. Alors que LulzSec lui, s&rsquo;introduit dans les bases de données des sites via de &laquo;&nbsp;simples&nbsp;&raquo; [injections SQL][13]. Ainsi, LulzSec avait *release* des données du FBI, la base de données des participants de l&rsquo;émission X-Factor, une grosse quantité de *logins* de sites pornographiques et j&rsquo;en passe. Bref, du [Black Hat][14] en veux-tu en voilà.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/07/lulzsec.jpg" alt="LulzSec" title="LulzSec" width="640" height="594" class="alignnone size-full wp-image-145" />
+  <img src="/uploads/2011/07/lulzsec.jpg" alt="LulzSec" title="LulzSec" width="640" height="594" class="alignnone size-full wp-image-145" />
 </p>
 
 C&rsquo;est avec [LulzSec][15], avec ses Hacks, sa liaison à Anonymous, que certain n&rsquo;hésitent pas à associer directement Anonymous aux hacktivistes en général ce qui, de base, est faux. CF tout cet article.

@@ -14,7 +14,7 @@ tags:
 La problématique : &laquo;&nbsp;hé [Kévinou][1] (ENCORE LUI !1), payer cloud.app tous les mois pour les screens, pour ou contre ?&nbsp;&raquo; &laquo;&nbsp;Boarf, essaye [FileShuttle][2] ?&nbsp;&raquo; et voilà où j&rsquo;en suis, à vous parler de cette application et pourquoi pas en dire un peu plus sur les screenshots.
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/fileshutter-upload-des-screenshots-sur-ftp"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/test_-2.png" alt="Screenshot Mac OS avec l&#039;application FileShutter" title="Screenshot Mac OS avec l&#039;application FileShutter" width="452" height="474" class="alignnone size-full wp-image-357" /></a>
+  <a href="http://blog.c-krylatov.com/fileshutter-upload-des-screenshots-sur-ftp"><img src="/uploads/2012/05/test_-2.png" alt="Screenshot Mac OS avec l&#039;application FileShutter" title="Screenshot Mac OS avec l&#039;application FileShutter" width="452" height="474" class="alignnone size-full wp-image-357" /></a>
 </p>
 
 <!--more-->

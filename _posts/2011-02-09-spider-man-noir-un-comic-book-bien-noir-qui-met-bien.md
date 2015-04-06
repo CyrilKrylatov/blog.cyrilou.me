@@ -26,7 +26,7 @@ Je n&rsquo;ai jamais été vraiment attiré par l&rsquo;environnement des comicb
 J&rsquo;ai tout de suite été séduit par le côté &laquo;&nbsp;noir&nbsp;&raquo; de la chose. Surtout le costume du personnage, en fait. Celui d&rsquo;origine est rouge et bleu, celui là est noir, taillé sur mesure, un peu underground sous les caves. Ce costume met l&rsquo;ambiance : nous ouvrirons le bouquin pour se bouffer un environnement assez noir (d&rsquo;où le titre &laquo;&nbsp;Spider-Man Noir&nbsp;&raquo;) en totale cohérence avec le personnage principale, aussi noir à l&rsquo;intérieur qu&rsquo;à l&rsquo;extérieur. Mais pas totalement.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/02/Spider-Man_Noir.jpg" alt="Spider-Man Noir" title="Spider-Man_Noir" width="640" height="406" class="alignnone size-full wp-image-26" />
+  <img src="/uploads/2011/02/Spider-Man_Noir.jpg" alt="Spider-Man Noir" title="Spider-Man_Noir" width="640" height="406" class="alignnone size-full wp-image-26" />
 </p>
 
 L&rsquo;histoire en soi ne casse pas des briques : un homme, le Bouffon, qui a une étrange histoire que l&rsquo;on ne découvre qu&rsquo;à la fin, règne sur un New York des années 30/40 dévasté par le chômage, la crise financière et tout le foin. Le jeune Parker en a marre, il se rebelle, se fait piquer par une saloperie d&rsquo;araignée et devient Super-Man Noir et entend faire justice lui-même.

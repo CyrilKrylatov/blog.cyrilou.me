@@ -14,7 +14,7 @@ tags:
 Comme vous le savez très certainement, j&rsquo;ai ouvert, voilà exactement 200 jours, [bonjourdubstep.fr][1] qui propose, comme tous les &laquo;&nbsp;bonjourmachin&nbsp;&raquo;, un mix dubstep par jours. J&rsquo;aimerai ici profiter de la 200ème pour faire une sorte de compte rendu / répondre aux questions que l&rsquo;on me pose souvent concernant ce site. Je vais essayer de partir du plus global au plus précis, histoire de faire genre que j&rsquo;ai, pour UNE FOIS, un article à peu près bien construit.
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/2011/05/25/un-petit-point-sur-bonjourdubstep/bonjourdubstep/" rel="attachment wp-att-100"><img src="http://blog.c-krylatov.com/wp-content/uploads/2011/05/bonjourdubstep.png" alt="bonjourdubstep | un mix dubstep par jour" title="bonjourdubstep" width="318" height="275" class="size-full wp-image-100" /></a>
+  <a href="http://blog.c-krylatov.com/2011/05/25/un-petit-point-sur-bonjourdubstep/bonjourdubstep/" rel="attachment wp-att-100"><img src="/uploads/2011/05/bonjourdubstep.png" alt="bonjourdubstep | un mix dubstep par jour" title="bonjourdubstep" width="318" height="275" class="size-full wp-image-100" /></a>
 </p>
 
 <!--more-->

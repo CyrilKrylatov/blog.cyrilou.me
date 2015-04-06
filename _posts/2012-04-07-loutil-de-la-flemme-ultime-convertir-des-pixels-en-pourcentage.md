@@ -22,7 +22,7 @@ Mais j&rsquo;ai voulu aller plus loin et me suis demandé les choses suivantes :
 Est donc né ce fabuleux convertisseur de pixels en pourcentage avec un aperçu du container et de ses childs.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/04/convertisseur_preview.jpg" alt="Convertir des pixels en pourcentage" title="Convertir des pixels en pourcentage" width="640" height="678" class="size-full wp-image-323" /> 
+  <img src="/uploads/2012/04/convertisseur_preview.jpg" alt="Convertir des pixels en pourcentage" title="Convertir des pixels en pourcentage" width="640" height="678" class="size-full wp-image-323" /> 
 </p>
 
 Pour clone le projet sur GuitHub, c&rsquo;est [par ici que ça se passe][3]. Si vous n&rsquo;avez pas GitHub, et bien, tant pis.

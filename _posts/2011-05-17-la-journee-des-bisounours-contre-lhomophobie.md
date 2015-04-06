@@ -14,7 +14,7 @@ tags:
 Je me suis laissé entendre qu&rsquo;aujourd&rsquo;hui, 17 Mai, c&rsquo;est la journée contre l&rsquo;homophobie. Journée tout à fait louable en soi, comme l&rsquo;est la journée de la Femme, la journée de l&rsquo;Eau, la journée de l&rsquo;Ecologie, ou je ne sais quoi. Pour se remettre dans le bain, rappelez vous que l&rsquo;homophobie, c&rsquo;est être contre le fait que deux personnes puissent s&rsquo;aimer alors qu&rsquo;elles sont du même sexe. De ce fait, et d&rsquo;une manière générale, lorsqu&rsquo;on est contre quelque chose, il faut en faire une journée. Et nous en avons le parfait exemple ici, en plus de ceux sus-cités.
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/2011/05/17/la-journee-des-bisounours-contre-lhomophobie/journee_contre_homophobie/" rel="attachment wp-att-91"><img src="http://blog.c-krylatov.com/wp-content/uploads/2011/05/journee_contre_homophobie.jpg" alt="Journée contre l&#039;homophobie" title="Journée contre l&#039;homophobie" width="640" height="463" class="size-full wp-image-91" /></a><br /><em>Feux ASAP & JPG sur cette photo.</em>
+  <a href="http://blog.c-krylatov.com/2011/05/17/la-journee-des-bisounours-contre-lhomophobie/journee_contre_homophobie/" rel="attachment wp-att-91"><img src="/uploads/2011/05/journee_contre_homophobie.jpg" alt="Journée contre l&#039;homophobie" title="Journée contre l&#039;homophobie" width="640" height="463" class="size-full wp-image-91" /></a><br /><em>Feux ASAP & JPG sur cette photo.</em>
 </p>
 
 <!--more-->

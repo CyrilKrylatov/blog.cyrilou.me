@@ -116,7 +116,7 @@ Ensuite, un coup de [JavaScript Compressor][2] pour gagner en performance sur la
 Egalement l&rsquo;occasion pour moi de tester [Sublime Text v2][3], chaudement recommandé par [@_kud][4], qui n&rsquo;a pas l&rsquo;air trop vilain.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/01/Capture-d’écran-2012-01-07-à-15.25.24.png" alt="" title="Capture d’écran 2012-01-07 à 15.25.24" width="638" height="804" class="alignnone size-full wp-image-280" />
+  <img src="/uploads/2012/01/Capture-d’écran-2012-01-07-à-15.25.24.png" alt="" title="Capture d’écran 2012-01-07 à 15.25.24" width="638" height="804" class="alignnone size-full wp-image-280" />
 </p>
 
 Allez, kiss !

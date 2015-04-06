@@ -19,37 +19,37 @@ Il parait qu&rsquo;**Elie Semoun** pleure du non-succès de son album qui, selon
 [The Pirate Bay][2]
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.34.11.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.34.11-300x68.png" alt="Elie Semoun Téléchargement Torrent Album" title="Elie Semoun Téléchargement Torrent Album" width="300" height="68" class="alignnone size-medium wp-image-285" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.34.11.png"><img src="/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.34.11-300x68.png" alt="Elie Semoun Téléchargement Torrent Album" title="Elie Semoun Téléchargement Torrent Album" width="300" height="68" class="alignnone size-medium wp-image-285" /></a>
 </p>
 
 [Torrent411][3]
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.31.15.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.31.15-300x144.png" alt="Elie Semoun Download Album Torrent" title="Elie Semoun Download Album Torrent" width="300" height="144" class="alignnone size-medium wp-image-287" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.31.15.png"><img src="/uploads/2012/02/Capture-d’écran-2012-02-13-à-19.31.15-300x144.png" alt="Elie Semoun Download Album Torrent" title="Elie Semoun Download Album Torrent" width="300" height="144" class="alignnone size-medium wp-image-287" /></a>
 </p>
 
 [Search-Torrent][4]
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.33.23.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.33.23-300x81.png" alt="Elie Semoun Download Free Streaming Album" title="Elie Semoun Download Free Streaming Album" width="300" height="81" class="alignnone size-medium wp-image-288" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.33.23.png"><img src="/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.33.23-300x81.png" alt="Elie Semoun Download Free Streaming Album" title="Elie Semoun Download Free Streaming Album" width="300" height="81" class="alignnone size-medium wp-image-288" /></a>
 </p>
 
 [Torrentz.eu][5]
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.34.37.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.34.37-300x194.png" alt="Elie Semoun Download movie Film Torrent Streaming" title="Elie Semoun Download movie Film Torrent Streaming" width="300" height="194" class="alignnone size-medium wp-image-289" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.34.37.png"><img src="/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.34.37-300x194.png" alt="Elie Semoun Download movie Film Torrent Streaming" title="Elie Semoun Download movie Film Torrent Streaming" width="300" height="194" class="alignnone size-medium wp-image-289" /></a>
 </p>
 
 Feu Guiks.net qui a réouvert
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/gs.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/gs-300x99.png" alt="Elie Semoun Download Album free" title="Elie Semoun Download Album free" width="300" height="99" class="alignnone size-medium wp-image-294" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/gs.png"><img src="/uploads/2012/02/gs-300x99.png" alt="Elie Semoun Download Album free" title="Elie Semoun Download Album free" width="300" height="99" class="alignnone size-medium wp-image-294" /></a>
 </p>
 
 ## Les Newsgroups
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/newsgroup.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/newsgroup-300x223.png" alt="Elie Download album torrent megaupload" title="Elie Download album torrent megaupload" width="300" height="223" class="alignnone size-medium wp-image-295" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/newsgroup.png"><img src="/uploads/2012/02/newsgroup-300x223.png" alt="Elie Download album torrent megaupload" title="Elie Download album torrent megaupload" width="300" height="223" class="alignnone size-medium wp-image-295" /></a>
 </p>
 
 ## Les sites d&rsquo;hébergement style feu Megaupload, RapidShare, Filesonic
@@ -59,7 +59,7 @@ Et bien je n&rsquo;ai rien trouvé, voilà.
 ## Le &laquo;&nbsp;vrai&nbsp;&raquo; warez, la scène :
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.41.34.png"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.41.34-300x87.png" alt="Elie Semoun Typiak Download gratuit" title="Elie Semoun Typiak Download gratuit" width="300" height="87" class="alignnone size-medium wp-image-292" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.41.34.png"><img src="/uploads/2012/02/Capture-d’écran-2012-02-13-à-20.41.34-300x87.png" alt="Elie Semoun Typiak Download gratuit" title="Elie Semoun Typiak Download gratuit" width="300" height="87" class="alignnone size-medium wp-image-292" /></a>
 </p>
 
 ## La conclusion
@@ -69,7 +69,7 @@ Je m&rsquo;évite d&rsquo;aller sur les channels XDCC où on rira de moi d&rsquo
 Ma question : alors, Elie Semoun, où se trouve ton album, for God&rsquo;s Sakes ? Est-ce que ce sont \_vraiment\_ les pirates qui sont la cause de ton non-succès ?
 
 <p style="text-align:center;">
-  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/DieudoJaiFaitLcon.jpg"><img src="http://blog.c-krylatov.com/wp-content/uploads/2012/02/DieudoJaiFaitLcon.jpg" alt="Dieudonné Elie Semoun Piratage" title="Dieudonné Elie Semoun Piratage" width="640" height="360" class="alignnone size-full wp-image-299" /></a>
+  <a href="http://blog.c-krylatov.com/wp-content/uploads/2012/02/DieudoJaiFaitLcon.jpg"><img src="/uploads/2012/02/DieudoJaiFaitLcon.jpg" alt="Dieudonné Elie Semoun Piratage" title="Dieudonné Elie Semoun Piratage" width="640" height="360" class="alignnone size-full wp-image-299" /></a>
 </p>
 
 (ps: j&rsquo;ai pas redimensionné les images. Pardon.)

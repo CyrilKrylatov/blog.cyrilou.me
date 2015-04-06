@@ -53,7 +53,7 @@ Quoique, [si en fait][5]. Ca a été ça, la soirée, au final. Des gens qui me 
 C&rsquo;est la technologie. C&rsquo;est la communication. C&rsquo;est Twitter. Cette belle jeunesse insouciante, n&rsquo;osant poser ses couilles sur la table, préférant l&rsquo;écrit que l&rsquo;oral. Celle qui vient me reprocher ensuite sur Twitter d’être méchant sur un quelconque sujet.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/08/kill_yourself.jpg" alt="Kill Yourself" title="Kill Yourself" width="640" height="445" class="alignnone size-full wp-image-156" />
+  <img src="/uploads/2011/08/kill_yourself.jpg" alt="Kill Yourself" title="Kill Yourself" width="640" height="445" class="alignnone size-full wp-image-156" />
 </p>
 
 Vous l&rsquo;aurez compris : je m&rsquo;intègre volontiers dans les 10% restants. De ce fait : plus jamais.

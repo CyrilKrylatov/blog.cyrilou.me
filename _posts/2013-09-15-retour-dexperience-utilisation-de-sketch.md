@@ -19,5 +19,5 @@ tags:
 <!--more-->
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2013/09/nope.jpg" alt="Sketch : nope" width="640" height="977" class="size-full wp-image-541" />
+  <img src="/uploads/2013/09/nope.jpg" alt="Sketch : nope" width="640" height="977" class="size-full wp-image-541" />
 </p>

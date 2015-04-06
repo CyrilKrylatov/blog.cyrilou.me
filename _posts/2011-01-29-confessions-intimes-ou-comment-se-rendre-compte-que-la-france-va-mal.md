@@ -3,7 +3,7 @@ title: Confessions intimes, ou comment se rendre compte que la France va mal
 author: Cyril Krylatov
 excerpt: |
   <p>Hier soir, malgré le fait que je sois sorti dans un bar à 23h, j'ai tout de même réussi à regarder une bonne moitié de l'émission désormais culte qui est Confessions Intimes. Vous savez, l'émission ou des personnes lambdas, suite à un appel à témoins, livrent leur intimité à la France entière pendant les 5/6eme du reportage. Le 1/6 restant, c'est généralement un petit moment de bonheur égaré à la fin du malaise créé par le reste du reportage. Oui, malaise, parfaitement.</p>
-  <p style="text-align:center;"><img src="http://blog.c-krylatov.com/wp-content/uploads/2011/01/confessions-intimes.jpg" alt="Confessions Intimes ou se rendre compte que la France va mal" title="Confessions Intimes ou se rendre compte que la France va mal" width="640" height="392" class="size-full wp-image-11" /></a></p>
+  <p style="text-align:center;"><img src="/uploads/2011/01/confessions-intimes.jpg" alt="Confessions Intimes ou se rendre compte que la France va mal" title="Confessions Intimes ou se rendre compte que la France va mal" width="640" height="392" class="size-full wp-image-11" /></a></p>
 layout: post
 permalink: /2011/01/29/confessions-intimes-ou-comment-se-rendre-compte-que-la-france-va-mal/
 dsq_thread_id:
@@ -14,7 +14,7 @@ categories:
 Hier soir, malgré le fait que je sois sorti dans un bar à 23h, j&rsquo;ai tout de même réussi à regarder une bonne moitié de l&rsquo;émission désormais culte qui est Confessions Intimes. Vous savez, l&rsquo;émission ou des personnes lambdas, suite à un appel à témoins, livrent leur intimité à la France entière pendant les 5/6eme du reportage. Le 1/6 restant, c&rsquo;est généralement un petit moment de bonheur égaré à la fin du malaise créé par le reste du reportage. Oui, malaise, parfaitement.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2011/01/confessions-intimes.jpg" alt="Confessions Intimes ou se rendre compte que la France va mal" title="Confessions Intimes ou se rendre compte que la France va mal" width="640" height="392" class="size-full wp-image-11" /></a>
+  <img src="/uploads/2011/01/confessions-intimes.jpg" alt="Confessions Intimes ou se rendre compte que la France va mal" title="Confessions Intimes ou se rendre compte que la France va mal" width="640" height="392" class="size-full wp-image-11" /></a>
 </p>
 
 <!--more-->

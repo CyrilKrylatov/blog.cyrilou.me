@@ -26,39 +26,39 @@ T&rsquo;ouvres le mail, tu sais plus quoi répondre, le client est constant dans
 Et papa, dans sa bonté sans limite, il y est allé crescendo, sur une échelle de 0 à 10, où 0 c&rsquo;est &laquo;&nbsp;allez, chill the fuck out, sans rancune, arrête de me les broyer&nbsp;&raquo; à 10 &laquo;&nbsp;j&rsquo;ai un flingue sur la tempe, physiquement ferme la&nbsp;&raquo;.
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_1.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_1.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_2.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_2.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_3.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_3.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_4.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_4.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_5.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_5.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_6.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_6.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_7.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_7.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_8.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_8.jpg" alt="" />
 </p>
 
 <p style="text-align:center;">
-  <img src="http://blog.c-krylatov.com/wp-content/uploads/2012/05/idgaf_9.jpg" alt="" />
+  <img src="/uploads/2012/05/idgaf_9.jpg" alt="" />
 </p>
 
 Allez, de rien, c&rsquo;est cadeau, ça détend, mais p&rsquo;tête [pas autant que ça][2].
