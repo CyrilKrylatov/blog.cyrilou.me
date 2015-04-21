@@ -14,6 +14,11 @@ body {
     min-height: 100%;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* ----------------------------------------------------------
    Typo
    ------------------------------------------------------- */
@@ -24,8 +29,15 @@ body {
 }
 
 html {
+    box-sizing: border-box;
     min-height: 520px;
     border-top: 3px #1d1d1d solid;
+}
+
+*,
+*:after,
+*:before {
+    box-sizing: inherit;
 }
 
 /* ----------------------------------------------------------
@@ -309,4 +321,55 @@ body {
 p a img,
 .block-logo a {
     transition: opacity 0.3s ease-out;
+}
+
+/* ----------------------------------------------------------
+   Responsive
+   ------------------------------------------------------- */
+
+@media all and (max-width: 50em) {
+
+    html {
+        min-height: 0;
+    }
+
+    body {
+        min-width: 0;
+    }
+
+    .main-sidebar {
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    .container {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .block-content p[style] {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .lpsm-title {
+        font-size: 26px;
+    }
+
+    .block-content p.is-intro {
+        margin: 10px 0;
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .block-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .main .more-link {
+        padding-right: 0;
+        text-align: center;
+    }
 }
