@@ -342,6 +342,10 @@ p a img,
         text-align: center;
     }
 
+    .block-logo {
+        margin: 20px 0;
+    }
+
     .container {
         width: 100%;
         padding: 0 20px;
