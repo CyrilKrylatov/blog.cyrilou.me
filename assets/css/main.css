@@ -326,7 +326,7 @@ p a img,
    Responsive
    ------------------------------------------------------- */
 
-@media all and (max-width: 50em) {
+@media all and (max-width: 1020px) {
 
     html {
         min-height: 0;
