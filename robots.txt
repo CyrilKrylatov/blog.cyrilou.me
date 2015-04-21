@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://feedpress.me/blog-cyrilou
