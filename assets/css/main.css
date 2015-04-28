@@ -20,6 +20,18 @@ img {
 }
 
 /* ----------------------------------------------------------
+   Common
+   ------------------------------------------------------- */
+
+.hidethis {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+}
+
+/* ----------------------------------------------------------
    Typo
    ------------------------------------------------------- */
 
@@ -95,23 +107,9 @@ body {
     margin: 0 0 0 20px;
 }
 
-.bs-item {
-    display: block;
-    width: 26px;
-    height: 26px;
-    text-indent: -9999px;
-    background-color: transparent;
-    background-image: url(../images/sprite-share.jpg);
-    background-position: 0 4px;
-    background-repeat: no-repeat;
-}
-
-.bs-item.is-rss {
-    background-position: 0 -74px;
-}
-
-.bs-item.is-google {
-    background-position: 0 -174px;
+.bs-item svg {
+    width: 20px;
+    fill: #1b1b1b;
 }
 
 .bs-item:hover {
