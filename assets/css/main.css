@@ -165,6 +165,7 @@ body {
     color: #1b1b1b;
 }
 
+.block-content > p:first-child,
 .block-content p.is-intro {
     margin: 40px 0;
     font-size: 24px;
