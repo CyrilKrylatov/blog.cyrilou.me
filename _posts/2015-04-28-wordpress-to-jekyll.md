@@ -20,7 +20,7 @@ Du coup, pourquoi ne pas prendre une techno plus légère et rapide d'exécution
 
 ## Comment l'installer ?
 
-Alors, déjà, il faut savoir que la migration WordPress à Jekyll a été pliée en moins de 30 minutes grâce à [Ce lien](http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/). Tout est automatique grâce à quelque plugins, c'est du click-click-upload-click-wala-fini.
+Alors, déjà, il faut savoir que la migration WordPress à Jekyll a été pliée en moins de 30 minutes grâce à [ce lien](http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/). Tout est automatique grâce à quelques plugins, c'est du clic-clic-upload-clic-wala-fini.
 
 Le plus long a été de finalement réintégrer le thème et de se faire au layout de Jekyll. Dieu merci, étant peu performant en design, mon blog n'a pas été trop long à réintégrer.
 
@@ -28,7 +28,7 @@ J'en ai profité pour passer tout ça sous Grunt (je n'ai jamais pris le temps d
 
 Du fait que mon blog soit hébergé sur GitHub, le code source est accessible sur [Mon compte GitHub](https://github.com/DaPo/blog.cyrilou.me) !
 
-Tout ceci se rapproche évidemment plus que jamais au workflow qu'on a à [le travail](http://www.ouichelorraine.com/).
+Tout ceci se rapproche évidemment plus que jamais du workflow qu'on a à [le travail](http://www.ouichelorraine.com/).
 
 ## Le plus relou
 
@@ -41,3 +41,4 @@ Bref, voilà, parfait.
 Finir d'intégrer le thème (remettre les photos en header d'image), trouver un colorateur syntaxique, remettre les [OpenGraph](http://ogp.me/),  pourquoi pas passer sur [cssnext](https://cssnext.github.io/) (et ensuite l'imposer aux collègues, hhhehe).
 
 Cet article est également le premier que je rédige entièrement en markdown ! \o\
+... et corrigé via une pull request ! /o/
