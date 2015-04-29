@@ -13,7 +13,7 @@ Salut, c'est Cyril. Voici un article technique (pour changer) créé à la deman
 
 ## Pourquoi ?
 
-On m'a demandé si c'était un soucis d'hébergement ou être un dev un peu plus hype : *pas du tout*. Moi, globalement, le back, j'm'en balance pas mal.
+On m'a demandé si c'était un souci d'hébergement ou être un dev un peu plus hype : *pas du tout*. Moi, globalement, le back, j'm'en balance pas mal.
 C'est juste que WordPress, je n'utilisais vraiment plus grand chose du CMS, les seuls plugins que j'avais : Disqus et un plugin de cache pour palier à la lenteur de WordPress.
 
 Du coup, pourquoi ne pas prendre une techno plus légère et rapide d'exécution ?
