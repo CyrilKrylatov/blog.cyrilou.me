@@ -41,4 +41,4 @@ Bref, voilà, parfait.
 Finir d'intégrer le thème (remettre les photos en header d'image), trouver un colorateur syntaxique, remettre les [OpenGraph](http://ogp.me/),  pourquoi pas passer sur [cssnext](https://cssnext.github.io/) (et ensuite l'imposer aux collègues, hhhehe).
 
 Cet article est également le premier que je rédige entièrement en markdown ! \o\
-... et corrigé via une pull request ! /o/
+... et corrigé via une pull request ! /o/ (merci [@LegZ](https://github.com/DaPo/blog.cyrilou.me/pull/2) !)
