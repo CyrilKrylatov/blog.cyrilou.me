@@ -35,16 +35,18 @@ img {
    Typo
    ------------------------------------------------------- */
 
-body {
-    font: 18px/1.5 "Droid Serif",serif;
-    color: #1b1b1b;
-    padding: 50px 0 20px;
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    border-top: 3px #1d1d1d solid;
 }
 
-html {
-    box-sizing: border-box;
-    min-height: 520px;
-    border-top: 3px #1d1d1d solid;
+body {
+    padding: 50px 0 20px;
+    font-family: "Droid Serif",serif;
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    color: #1b1b1b;
 }
 
 *,
@@ -157,26 +159,20 @@ body {
     display: block;
     margin: 0 0 20px;
     text-decoration: none;
-    font-size: 46px;
+    font-size: 4.6rem;
+    line-height: 5rem;
     font-weight: 400;
-    line-height: 1.2;
     color: #1b1b1b;
 }
 
 .block-content > p:first-child,
 .block-content p.is-intro {
-    margin: 40px 0;
-    font-size: 24px;
-    line-height: 31px;
+    font-size: 2.4rem;
+    line-height: 3rem;
 }
 
 .block-content p + p {
     margin: 20px 0 0;
-}
-
-.block-content p {
-    font-size: 18px;
-    line-height: 26px;
 }
 
 .block-content div {
@@ -219,7 +215,7 @@ body {
 .block-content h2 {
     margin: 20px 0;
     text-align: center;
-    font-size: 30px;
+    font-size: 3.0rem;
     font-style: italic;
 }
 
@@ -229,7 +225,7 @@ body {
 }
 
 .lp-time {
-    font-size: 12px;
+    font-size: 1.2rem;
     font-style: italic;
 }
 
@@ -240,9 +236,9 @@ body {
     border: 1px #1b1b1b solid;
     text-align: right;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 4.4rem;
     font-style: italic;
-    line-height: 48px;
     color: #fff;
     background-color: #1b1b1b;
 }
@@ -258,7 +254,7 @@ body {
 
 .main-footer {
     padding: 40px 0;
-    font-size: 12px;
+    font-size: 1.2rem;
     font-style: italic;
 }
 
@@ -356,19 +352,8 @@ p a img,
         margin-left: 0;
     }
 
-    .lpsm-title {
-        font-size: 26px;
-    }
-
     .block-content p.is-intro {
         margin: 10px 0;
-        font-size: 20px;
-        line-height: 26px;
-    }
-
-    .block-content p {
-        font-size: 14px;
-        line-height: 20px;
     }
 
     .main .more-link {
