@@ -89,4 +89,4 @@ Bonus #2, des réactions de gens sur place :
 </blockquote>
 
  [1]: http://www.codeursenseine.com/2014/
- [2]: twitter.com/maxime
+ [2]: https://twitter.com/maxime
