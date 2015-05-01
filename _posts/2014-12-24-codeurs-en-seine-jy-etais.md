@@ -88,5 +88,7 @@ Bonus #2, des réactions de gens sur place :
   </p>
 </blockquote>
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
  [1]: http://www.codeursenseine.com/2014/
  [2]: https://twitter.com/maxime
