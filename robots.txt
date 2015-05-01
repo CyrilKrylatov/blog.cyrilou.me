@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://feedpress.me/blog-cyrilou
+Sitemap: http://feedpress.me/blog-c-krylatov
