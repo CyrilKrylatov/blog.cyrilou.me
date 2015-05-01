@@ -50,7 +50,7 @@ module.exports = function(grunt) {
                     'assets/css/*.css'
                 ],
                 tasks: [
-                    'cssmin', 'shell:jekyllServe'
+                    'cssmin'
                 ],
                 options: {
                     spawn: false,
