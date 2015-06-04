@@ -77,3 +77,5 @@ Pour finir, je compte (dans un plus court terme, du coup) réorganiser mes fichi
 Beau projet qu'est [diwi](https://diwi.com), je pense qu'on est tous fiers de ce qu'il est et le seront d'autant plus quand il fonctionnera bien. Plein de challenges et de problèmes nous attendent, c'est motivant, c'est chouette.
 
 Vive la vie.
+
+Si vous avez des questions n'hésitez pas à me les poser, je me ferai une joie d'y répondre.
