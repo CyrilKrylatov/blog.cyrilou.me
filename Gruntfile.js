@@ -24,7 +24,7 @@ module.exports = function(grunt) {
             jekyllServe: {
                 command: 'jekyll serve'
             }
-        }
+        },
 
         watch: {
             jekyll: {
