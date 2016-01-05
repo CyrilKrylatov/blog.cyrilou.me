@@ -2,7 +2,7 @@ url: http://blog.cyrilou.me
 name: Cyrilou, en toute intimité.
 title: Cyrilou, en toute intimité.
 description: Un site utilisant Jekyll tenu par un haineux.
-highlighter: true
+highlighter: pygments
 paginate: 5
 encoding: UTF-8
 gems: [jekyll-paginate]
