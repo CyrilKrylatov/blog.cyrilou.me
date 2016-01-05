@@ -24,7 +24,7 @@ module.exports = function(grunt) {
             jekyllServe: {
                 command: 'jekyll serve'
             }
-        },
+        }
 
         watch: {
             jekyll: {
@@ -62,6 +62,9 @@ module.exports = function(grunt) {
         }
     });
 
+    grunt.registerTask('serve', [
+        'serve'
+    ]);
     grunt.registerTask('default', ['shell:jekyllServe', 'watch']);
     grunt.registerTask('deploy', ['cssmin', 'shell:jekyllBuild']);
 
