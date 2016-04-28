@@ -32,7 +32,7 @@ Techniquement, voilà comment ça se passe :
 * Quand un vendeur upload des images pour illustrer son service, nous prenons la première (qui va s'afficher dans la miniature sur la home et la page de catégorie) et la dégradons (on prend les 10 premiers pixels en hauteur et largeur et on l'étend à 270x170 pixels)
 * On l'encode en base64 (la chaîne prend moins de place qu'un fichier JPG)
 * L'image dégradée est affichée telle quelle avec un blur de 15 pixels généré en CSS3.
-* L'URL de l'image non dégradée, on la stock dans un `data-attribute` quelque part
+* L'URL de l'image non dégradée, on la stock dans un `data-attribute` sur le parent des images
 * On lance le téléchargement de l'image finale en JavaScript. Elle a un style qui fait qu'elle soit transparente pour avoir un effet visuel d'apparition
 * Une fois que l'image finale est chargée (`onload`), on lui enlève sa transparence.
 
@@ -50,11 +50,15 @@ Niveau CSS, au final, pas grand chose :
 
 Deux choses.
 
-1. L'image dégradée, on lui rajoute un `transform: rotate(0);`. Sinon, sur Safari, malgré un `overflow: hidden` sur le parent, le flou va prendre les pixels à côté de l'image et les flouter également.
+1. L'image dégradée, on lui rajoute un `transform: rotate(0);` (merci [@dtrucs](http://twitter.com/dtrucs)). Sinon, sur Safari, malgré un `overflow: hidden` sur le parent, le flou va prendre les pixels à côté de l'image et les flouter également.
 2. L'histoire de la position relative sur le parent et de l'absolue sur l'image finale, c'est pour qu'elle recouvre l'image dégradée. Le wrapper ayant la taille de l'image dégradée (qui est la même que l'image finale), pas besoin de lui spécifier de taille. #astuce
 
-Je me rends compte en relisant mon code qu'on a pas forcément besoin d'autant de class et que je pourrais tout faire avec le `data-attribute` du parent… Nous verrons ça à un autre moment.
+<s>Je me rends compte en relisant mon code qu'on a pas forcément besoin d'autant de class et que je pourrais tout faire avec le `data-attribute` du parent… Nous verrons ça à un autre moment.</s>
+
+Edit: ayé.
 
 That's all folks!
+
+Merci beaucoup [@hugogiraudel](https://twitter.com/hugogiraudel) pour son aide et ses [petites améliorations](https://gist.github.com/HugoGiraudel/0b35ee20fea5230b22a573150341f91f) !
 
 Hésitez pas à me dire en commentaire du [Gist](https://gist.github.com/DaPo/6019eb4188bb8c90bb1367d805479f0c) ou ici à quel point ce code est pourrav'.
