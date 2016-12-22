@@ -33,7 +33,9 @@ Sauf si le designer est vraiment méchant (si c'est le cas, barrez-vous) il intr
 
 N'hésitons pas non plus à y mettre le layout (pour vérifier la largeur du site) avec les différents breakpoints à valider avec le designer.
 
-Il est primordial de commencer par intégrer dans une page tout à fait à part ces éléments. Comme ça, maintenant qu'ils sont intégrés, il n'y aura plus qu'à copier le markup là où il faut et hop c'est fait et ce qui a été fait n'a plus besoin d'être fait. 80% du travail a été fait durant cette étape.
+Il est primordial de commencer par intégrer dans [une page tout à fait à part](https://www.24joursdeweb.fr/2014/un-guide-qui-a-du-style/) (appelée **styleguide**) ces éléments.
+
+Comme ça, maintenant qu'ils sont intégrés, il n'y aura plus qu'à copier le markup là où il faut et hop c'est fait et ce qui a été fait n'a plus besoin d'être fait. 80% du travail a été fait durant cette étape.
 
 Il ne faut pas hésiter à faire valider au designer cette étape. S'il valide 80% de l'intégration c'est banco.
 
