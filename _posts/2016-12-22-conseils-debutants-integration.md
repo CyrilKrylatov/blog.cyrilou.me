@@ -3,8 +3,7 @@ title: 'Les conseils à donner aux débutants en intégration'
 author: Cyril Krylatov
 layout: post
 permalink: /2016/12/2/conseils-debutants-integration/
-dsq_thread_id:
-  - 
+
 ---
 
 Nouvel intégrateur dans une équipe, pas à l'aise, pas trop de méthodo, uniquement le 4/5 en WordPress sur son portfolio, 5/5 en HTML et CSS, 3/5 en JavaScript pour se réconforter…
