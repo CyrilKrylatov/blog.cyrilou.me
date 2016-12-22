@@ -77,7 +77,7 @@ Pour s'assurer du bon respect de la DA, le merveilleux [PerfectPixel](https://ch
 
 Si des pixels dépassent, ça se verra très vite et c'est pas la peine de demander un recettage si c'est le cas.
 
-Si une couleur de texte ou de bordure n'est pas la bonne, il ne faudra pas demander au designer comment faire pour récupérer la bonne couleur d'une part et d'autre part, il n'hésitera pas à dire que quelque chose ne va pas.
+Si une couleur de texte ou de bordure n'est pas la bonne, il ne faudra pas demander au designer comment faire pour récupérer la bonne couleur d'une part et d'autre part, il n'hésitera pas à dire que quelque chose ne va pas. Et entre nous, il le verra, essayez pas de lui mettre à l'envers, ils sont perfides, ils sont omniscients, ils voient tout. TOUT.
 
 ## Le JavaScript
 
