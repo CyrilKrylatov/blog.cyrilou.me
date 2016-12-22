@@ -93,7 +93,9 @@ Vous ne savez pas gérer les layouts sur Magento ? Demandez au développeur Mage
 
 Vous ne savez pas comment gérer un formulaire responsive ? Demandez au collègue intégrateur comment le faire.
 
-Il n'y a aucune honte à demander quelque chose qu'on ne sait pas faire. Il m'arrive très souvent de demander aux designers ou aux développeurs comment faire quelque chose.
+**Il n'y a aucune honte à demander quelque chose qu'on ne sait pas faire.**
+
+Il m'arrive très souvent de demander aux designers ou aux développeurs comment faire quelque chose. Et ce n'est pas une honte !
 
 Je sais que les nouveaux hésitent beaucoup à souvrir aux autres. Or, c'est vraiment la pire des choses à faire : ne pas demander.
 
