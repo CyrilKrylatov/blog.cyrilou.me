@@ -99,7 +99,7 @@ Si une image s'affiche bien trop gros sur un viewport précis, hop, je la rédui
 
 Je fais donc du cas par cas, élément par élément, viewport par viewport.
 
-Il serait en effet assez incensé d'exiger du perfect pixel dans ce moment-là parce que ça saoûle tout le monde donc on en fait pas et finalement ces versions mobiles on les travaille à deux et c'est tout aussi bien.
+Il serait en effet assez insensé d'exiger du perfect pixel dans ce moment-là parce que ça saoûle tout le monde donc on en fait pas et finalement ces versions mobiles on les travaille à deux et c'est tout aussi bien.
 
 Mais le pixel perfect pour juste la version Desktop ne me semble pas trop déconnant non plus.
 
