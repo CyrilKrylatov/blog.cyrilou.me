@@ -13,7 +13,7 @@ Volontairement, je laisse de côté toute la vision purement technique du sujet,
 <!--more-->
 
 Comment appréhender une nouvelle intégration ?
-À mon avis, étant débutant, il ne faut pas se lancer directement dedans. Prendre quelques dizaines de minutes et réflechir à comment appréhender les 40 maquettes qui viennent de nous arriver dans les mains et les découper en amont.
+À mon avis, étant débutant, il ne faut pas se lancer directement dedans. Prendre quelques dizaines de minutes et réfléchir à comment appréhender les 40 maquettes qui viennent de nous arriver dans les mains et les découper en amont.
 
 ## Découper les maquettes
 
@@ -63,7 +63,7 @@ En effet, il n'y a rien de pire que de faire toute les pages d'un coup et ensuit
 
 Il n'y a rien de pire que de trop s'éparpiller lors d'une intégration. Ça fait perdre du temps et de la patience à tout le monde, c'est pénible la mort, c'est le pire qui puisse arriver.
 
-Non, vraiment, une page ou un groupe de page qui se ressemblent les unes à la suite des autres. Vaut mieux avoir 5 retours sur une page que 100 retours sur 20 pages.
+Non, vraiment, une page ou un groupe de pages qui se ressemblent les unes à la suite des autres. Vaut mieux avoir 5 retours sur une page que 100 retours sur 20 pages.
 
 ## Pixel perfect
 
@@ -103,13 +103,13 @@ Il serait en effet assez insensé d'exiger du perfect pixel dans ce moment-là p
 
 Mais le pixel perfect pour juste la version Desktop ne me semble pas trop déconnant non plus.
 
-Je ne dis pas que c'est ce qu'il faut absoluement faire. En tout cas pour nos projets, ça fonctionne très bien. Et tout le monde n'a pas les mêmes projets !
+Je ne dis pas que c'est ce qu'il faut absolument faire. En tout cas pour nos projets, ça fonctionne très bien. Et tout le monde n'a pas les mêmes projets !
 
 Il faut simplement se mettre d'accord entre les équipes sur le workflow à mettre en place, voir si ça plaît à tout le monde et surtout, **trouver des compromis**.
 
 ## Le JavaScript
 
-Toujours à la fin sauf si vraiment nécessaire. Ça évitera de s'éparpiller de trop, chaques choses en son temps.
+Toujours à la fin sauf si vraiment nécessaire. Ça évitera de s'éparpiller de trop, chaque chose en son temps.
 
 ## Pour finir, demandez de l'aide
 
@@ -125,7 +125,7 @@ Vous ne savez pas comment gérer un formulaire responsive ? Demandez au collègu
 
 Il m'arrive très souvent de demander aux designers ou aux développeurs comment faire quelque chose. Et ce n'est pas une honte !
 
-Je sais que les nouveaux hésitent beaucoup à souvrir aux autres. Or, c'est vraiment la pire des choses à faire : ne pas demander.
+Je sais que les nouveaux hésitent beaucoup à s'ouvrir aux autres. Or, c'est vraiment la pire des choses à faire : ne pas demander.
 
 N'hésitez vraiment pas à demander. Demandez, demandez, demandez.
 
