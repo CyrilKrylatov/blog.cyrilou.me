@@ -81,6 +81,32 @@ Si des pixels dépassent, ça se verra très vite et c'est pas la peine de deman
 
 Si une couleur de texte ou de bordure n'est pas la bonne, il ne faudra pas demander au designer comment faire pour récupérer la bonne couleur d'une part et d'autre part, il n'hésitera pas à dire que quelque chose ne va pas. Et entre nous, il le verra, essayez pas de lui mettre à l'envers, ils sont perfides, ils sont omniscients, ils voient tout. TOUT.
 
+**Edit**: comme [des personnes](https://twitter.com/pingoo1/status/813687399448461312) ne [semblent pas](https://twitter.com/HTeuMeuLeu/status/813684703618277376) [se retrouver](https://twitter.com/htmlvv/status/813685087028019200) dans cette partie de mon article et je les comprends parce qu'aurai dû être plus précis, permettez-moi de clarifier ma pensée.
+
+Avec [@joffrey](https://twitter.com/joffrey/) mon DA, nous avons décidé de la chose suivante : il me donne une DA format desktop (960px de large dans le cas de [5euros](https://5euros.com)) que je pixel perfect, et uniquement cette version-là.
+
+Encore une fois, s'il a mis telle couleur sur tel texte ou que telle colonne fait 300px dans ce format de 960px, c'est qu'il y a une raison ergonomique.
+
+Je ne me vois donc pas remettre en cause son travail en lui mettant une colonne de 290px ou du #333 à la place d'un #54545E (bon, ça arrive quand même, on est pas parfait). C'est en ça que pour moi, le pixel perfect est important. Uniquement sur une DA fixée à 960px de large qui est finalement le point de départ du site.
+
+En revanche, pour les autres formats (960px et moins), il ne me fait pas de DA.
+
+Une fois que le format desktop est intégré et validé, je passe aux formats mobiles. La grille fait beaucoup de ce travaille toute seule car les [breakpoints de la grille de Bootstrap](http://getbootstrap.com/css/#grid-options) sont bien foutus . À moi après d'ajuster l'intégration, au fur et à mesure que je réduis la taille du viewport.
+
+Si sur la version desktop j'ai deux boutons l'un à côté de l'autre et qu'à un moment ça casse, je vais déclarer une media query à ce breakpoint précis pour lui dire de mettre un margin-top sur le deuxième bouton.
+
+Si une image s'affiche bien trop gros sur un viewport précis, hop, je la réduis, etc. etc.
+
+Je fais donc du cas par cas, élément par élément, viewport par viewport.
+
+Il serait en effet assez incensé d'exiger du perfect pixel dans ce moment-là parce que ça saoûle tout le monde donc on en fait pas et finalement ces versions mobiles on les travaille à deux et c'est tout aussi bien.
+
+Mais le pixel perfect pour juste la version Desktop ne me semble pas trop déconnant non plus.
+
+Je ne dis pas que c'est ce qu'il faut absoluement faire. En tout cas pour nos projets, ça fonctionne très bien. Et tout le monde n'a pas les mêmes projets !
+
+Il faut simplement se mettre d'accord entre les équipes sur le workflow à mettre en place, voir si ça plaît à tout le monde et surtout, **trouver des compromis**.
+
 ## Le JavaScript
 
 Toujours à la fin sauf si vraiment nécessaire. Ça évitera de s'éparpiller de trop, chaques choses en son temps.
