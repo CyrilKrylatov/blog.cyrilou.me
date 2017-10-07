@@ -5,7 +5,7 @@ description: Un site utilisant Jekyll tenu par un haineux.
 highlighter: pygments
 paginate: 5
 encoding: UTF-8
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 defaults:
   -
     scope:
