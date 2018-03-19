@@ -74,7 +74,7 @@ Pour finir, l'inscription sur Boursorama y est très très facile, aucune galèr
 
 Ils ont également un service [EasyMove](http://www.boursorama.com/actualites/changer-de-banque-peut-on-eviter-le-casse-tete-886619b8d8b74e7d0c1d6c915513d17e) qui va se charger de contacter les divers créanciers qui font des prélèvements récurrents sur votre compte, et ainsi leur demander de changer pour votre nouvel IBAN. Easy. 😎
 
-En tout cas, voici un [tableau comparatif](http://img4.hostingpics.net/pics/694335BEL1902.png) très complet sur les différentes offres des banques en ligne.
+En tout cas, voici un [tableau comparatif](http://reho.st/https://www.zupimages.net/up/18/09/7o9j.png) (source: [HFR](https://forum.hardware.fr/hfr/Discussions/Viepratique/pognon-banque-sujet_45447_1.htm)) très complet sur les différentes offres des banques en ligne.
 
 Donc, grâce à ça, je réduis mes dépenses à l'année et on m'offre un cadeau pour ouvrir un compte. C'est chouette, non ?
 
