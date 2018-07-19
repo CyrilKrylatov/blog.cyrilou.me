@@ -181,6 +181,7 @@ body {
     line-height: 34px;
 }
 
+.block-content h3,
 .block-content p {
     max-width: 560px;
     margin-left: auto;
