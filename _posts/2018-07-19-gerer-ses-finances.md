@@ -39,27 +39,19 @@ Grâce à ça, j’ai réussi à mettre un peu d’argent de côté, je me suis 
 
 Avant cette année, je m'étais fais un tableur, divisé en trois parties.
 
-Vous pouvez trouver [sur ce lien](https://docs.google.com/spreadsheets/d/1kE1F_5yKROQyGCsgXO8PN00EPCP8mG6EnCE7snBJQ4I/edit?usp=sharing) un tableur pré-rempli avec des valeurs aléatoires mais environ réalistes pour avoir une base fonctionnelle.
-
-Alors j'ai mis des valeurs purement au hasard, hein, bon, 200 € d'épargne quand on touche 1500 € c'est un poil beaucoup. Mais on y reviendra.
-
 Je vais aller plutôt vite sur cette méthode, c'est pas de celle-là dont je veux parler ici.
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-1.png" alt="" />
 </div>
 
-La première partie, **les entrées fixes**. C'est tout ce qui entre mensuellement sur le compte en banque. Donc évidemment le salaire, les aides de l'État, les aides des parents, j'en sais rien. C'est tout ce qui vient régulièrement où on est sûrs que ça arrive.
-
-Si c'est un parent qui vous donne de temps en temps 50 € par ci, 100 € par là de manière irrégulière, ce n'est pas la peine de le mettre. On le mettra plutôt dans la troisième partie.
+La première partie, **les entrées fixes**. C'est tout ce qui entre mensuellement sur le compte en banque. 
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-2.png" alt="" />
 </div>
 
-Ici, tout ce qui sort. Donc tout ce qui est abonnements, impôts, factures, etc. J'y ai également mis le déficit.
-
-Ce déficit c'est donc le chiffre qui va s'afficher en fin de mois tout à droite de la troisème partie. C'est quand on a dépensé + que ce qu'on a gagné et c'est absolument ce qu'on veut éviter.
+Ici, tout ce qui sort.
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-3.png" alt="" />
@@ -68,10 +60,6 @@ Ce déficit c'est donc le chiffre qui va s'afficher en fin de mois tout à droit
 C'est ici que les choses se corsent. Rapidement, j'ai décidé de couper mon mois en 4 (pour 4 semaines, heh) et chacune des semaines je sais que j'ai **268.28 €** à dépenser.
 
 Chaque sortie et chaque entrée compte pour une ligne. On met le nom de la dépense à gauche, le prix (+20 ou -73) et ce qu'il reste à dépenser sur la semaine se met à jour.
-
-Grâce à ça, si à la fin du mois / fin de la 4ème semaine on est égal ou mieux supérieur à 0, c'est qu'on a gagné. SI c'est négatif, on a perdu.
-
-Le montant qu'il reste se retrouve donc dans la case "déficit" des sorties de la deuxième partie du tableau. On efface les entrées des semaines et c'est reparti pour le mois suivant.
 
 ### Les limites de cette méthode 
 
@@ -83,7 +71,7 @@ Enfin, de mon expérience, je pense qu'on s'en sort moins bien avec ça car nous
 
 ### 4 ans avec ce tableau 
 
-Cette méthode m'a suivi pendant 4 ans. Malgré ses limites, je pense qu'elle est bonne à 60 % car elle n'est pas trop prise de tête et est facile à mettre en place.
+Cette méthode m'a suivi pendant 4 ans. Malgré ses limites, je pense qu'elle est bonne à 40 % car elle n'est pas trop prise de tête et est facile à mettre en place.
 
 Mais bon, comme il y en a une beaucoup plus complète, pourquoi s'en priver ?
 
