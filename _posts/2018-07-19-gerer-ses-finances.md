@@ -79,6 +79,10 @@ Mais bon, comme il y en a une beaucoup plus complète, pourquoi s'en priver ?
 
 _**Disclaimer** je le dis d'emblée, YNAB est payant. $83.99 par an, environ 72&nbsp;€, avec une période d'essai de 34&nbsp;jours. Ce que je vous propose c'est de créer un compte, de faire l'expérience à fond, de s'y tenir et de voir au bout de ces 34&nbsp;jours ce que ça donne. C'est un outil qui fonctionne, comme en témoigne [ce redditos](https://www.reddit.com/r/ynab/comments/80whkp/rave_i_began_my_ynab_journey_3_years_ago_this/), [celui-là également](https://www.reddit.com/r/ynab/comments/8ym8p4/im_worthless/) ou [même lui](https://www.reddit.com/r/ynab/comments/5t1l1u/rave_after_13_months_of_nynab_i_reach_14343_net/), et j'en passe. Ne prenez pas peur, continuez la lecture et rendez-vous à la fin de l'article._
 
+_Également, je signale que les liens qui redirigent vers YNAB sont des liens de parrainage. Si vous prenez la formule payante, ça nous fera 1 mois gratuit chacun._
+
+_Pour finir, non, je ne suis pas payé par YNAB pour parler de leur produit. Leur formule de parrainage est accessible à tout le monde._
+
 Dans la précédente méthode, j'expliquais que celle-ci était bien trop vague.
 
 L'idée, pour ne pas faire de dépensement de budget, c'est tout bonnement de s'en fixer un, pour chacun des sujets de ce à quoi notre argent va servir.
@@ -105,7 +109,7 @@ Et pour faire ça, on utilise un service qui s'appelle [You Need A Budget][1] (*
 
 ### Présentation
 
-Quand nous arrivons sur notre dashboard, YNAB voilà ce sur quoi on tombe :
+Quand nous arrivons sur notre dashboard YNAB, voilà ce sur quoi on tombe :
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-4.png" alt="" />
@@ -116,7 +120,7 @@ Pas le temps de niaiser, on retrouve notre système d'enveloppes dans la partie 
 Sur la partie gauche, nous avons donc
 * "**Budget**", le tableau où nous allons créer nos catégories et avoir le suivi de notre budget ;
 * "**Reports**", des graphiques de suivi que je n'utilise pas particulièrement ;
-* "**All accounts**" où nous allons entrer nos comptes (pour faire simple, je ne mettrai que le compte courant et un livret A).
+* "**All accounts**" où nous allons entrer nos comptes (pour faire simple, je ne mettrai que le compte courant et un Livret A).
 
 La première chose à faire, c'est donc de remplir la partie **Budget**. C'est peut-être le plus long (mais pas le plus difficile) à mettre en place.
 
@@ -132,7 +136,7 @@ Eh puis ben c'est parti, je mets mes sorties fixes.
     <img src="/images/articles/gerer-budget-5.png" alt="" />
 </div>
 
-Également, on peut avoir d'autres catégories pour les sorties fixes, telles que "**Appartement**", **Impôts** et pourquoi pas **Épargne**.
+Également, on peut avoir d'autres catégories pour les sorties fixes, telles que **Appartement**, **Impôts** et pourquoi pas **Épargne**.
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-6.png" alt="" />
@@ -142,7 +146,7 @@ Nous retrouvons ici la deuxième partie de mon tableur de la première méthode.
 
 Cela ne me concerne pas mais nous pouvons tout à fait ajouter une catégorie "**Crédits**" avec une ligne pour le remboursement de l'achat d'une maison, d'une voiture, d'un crédit à la consommation ou que sais-je.
 
-_**Petit aparté** : l'épargne sur un livret A c'est la base de l'épargne. Il y a d'autres façons d'épargner pour construire des projets sur moyen et long terme. Mais le livret A est intéressant ici pour avoir une caisse de secours avec de l'argent retirable immédiatement. Le mieux, c'est de mettre tous les mois entre 5 et 10 % (10 % c'est déjà beaucoup, donc à pondérer selon le budget) de son salaire net de côté. Et arriver à avoir un livret A qui couvre 3 mois de salaire. Minimum.
+_**Petit aparté** : l'épargne sur un Livret A c'est la base de l'épargne. Il y a d'autres façons d'épargner pour construire des projets sur moyen et long terme. Mais le Livret A est intéressant ici pour avoir une caisse de secours avec de l'argent retirable immédiatement. Le mieux, c'est de mettre tous les mois entre 5 et 10 % (10 % c'est déjà beaucoup, donc à pondérer selon le budget) de son salaire net de côté. Et arriver à avoir un Livret A qui couvre 3 mois de salaire. Minimum.
 Ainsi, en cas de coup vraiment dur, je sais que je peux vivre 3 mois sur ce que j'ai de côté et que j'ai 3 mois pour trouver une solution. Ça permet automatiquement de ne pas être dans une position vraiment délicate._ 
 
 Ces catégories, nous ne pourrons y toucher. Elles sont immutables car fixes et obligatoires.
@@ -173,7 +177,7 @@ C'est dans la partie **All account** que cela se passe.
 
 Moi j'ai un compte Boursorama de type "[Checking](https://www.wellsfargo.com/financial-education/basic-finances/manage-money/options/bank-account-types/)" qui correspond au **Compte Courant**.
 
-Vous pourrez également y ajouter le compte de votre livret A (type Saving). Pas de raison que nous ne le trackions pas non plus !
+Vous pourrez également y ajouter le compte de votre Livret A (type Saving). Pas de raison que nous ne le trackions pas non plus !
 
 <div class="photo">
     <img src="/images/articles/gerer-budget-8.png" alt="" />
@@ -253,53 +257,43 @@ On en revient à ma catégorie "Loisirs", je vais chercher le budget "Cadeaux" e
     <img src="/images/articles/gerer-budget-14.png" alt="" />
 </div>
 
- Ainsi, j'arrive à 0.00€ en Courses et tout va bien.
+Ainsi, j'arrive à 0.00€ en Courses et tout va bien.
 
- Le but c'est de quand même éviter cette situation en faisant attention. 
+Le but c'est de quand même éviter cette situation en faisant attention. 
 
- Également, le mois suivant, nous pourront rajouter un peu de budget dans Courses (en modifiant d'autre catégories) et voilà, on s'adapte.
+Également, le mois suivant, nous pourront rajouter un peu de budget dans Courses (en modifiant d'autre catégories) et voilà, on s'adapte.
 
-### Pour voir un peu plus loin
+### Anticiper les dépenses annuelles grâce aux goals
 
-Admettons que je veuille me faire des vacances l'année prochaine à NYC. Visons pour août 2019.
+En plus des factures mensuelles, j'ai également des factures annuelles. Comptes Amazon Prime, hébergements, noms de domaine, abonnement YNAB, impôts locaux… Tout est possible à budgeter. Rien de plus simple, les [Goals](https://docs.youneedabudget.com/article/148-step-1-set-a-goal) sont là pour ça.
 
-Il va me falloir un budget pour le billet d'avion en date de février (pour avoir un billet 6 mois à l'avance), un budget logements pour mai et enfin, sur place, de quoi vivre.
+<div class="photo">
+    <img src="/images/articles/gerer-budget-15.jpg" alt="" />
+</div>
 
 Rien de plus simple.
 
-Je crée une catégorie "Voyage NYC" et on y va, j'entre mon premier budget, celui de l'avion (dans le mois courant, août 2018).
+Je créé ma catégorie. Ensuite dans la sidebar à droite, "**Create a goal**", puis **Target Category Balance by Date**.
+
+Dans "Target Balance" je mets le montant de la facture à venir.
+
+Ensuite la date à laquelle il me faudra dépenser le Target Balance.
 
 <div class="photo">
-    <img src="/images/articles/gerer-budget-15.png" alt="" />
+    <img src="/images/articles/gerer-budget-16.jpg" alt="" />
 </div>
 
-Dans la sidebar à droite, dans "Goal", je clic sur **+ Create a goal**, sélectionne **Target Category Balance by Date**. **Target Balance** : 750, **Target Month & Year:** : February 2019.
+Il ne me restera plus qu'à cliquer, dans la sidebar, sur "**Goal Target: 6.16€**" pour bugeter la catégorie du montant du Goal Target tous les mois et tadam, c'est budgété.
+
+Cela fonctionne également avec un voyage à financer !
 
 <div class="photo">
-    <img src="/images/articles/gerer-budget-16.png" alt="" />
+    <img src="/images/articles/gerer-budget-17.jpg" alt="" />
 </div>
 
-On valide et sur l'écran suivant, je clic sur "**Goal Target: 93.75€**".
+Ce qu'il va se passer, c'est que ce montant, comme il est budgété, **on n'y touche pas**. Vous allez donc, tous les mois, être de plus en plus dans le vert, avec de plus en plus d'argent dessus. Mais quenini : chaque euros sur votre compte en banque sert maintenant à quelque chose. Attention de ne pas se faire avoir.
 
-<div class="photo">
-    <img src="/images/articles/gerer-budget-17.png" alt="" />
-</div>
-
-Et voilà ! Tous les mois, YNAB je budgette 93.75 € à mettre de côté jusqu'en février, date à laquelle je vais devoir payer le billet d'avion.
-
-<div class="photo">
-    <img src="/images/articles/gerer-budget-18.png" alt="" />
-</div>
-
-Pareil pour le reste !
-
-<div class="photo">
-    <img src="/images/articles/gerer-budget-19.png" alt="" />
-</div>
-
-Du coup, tous les mois, tant que je ne touche pas à cet argent (et qu'il dort sur mon compte courant) je sais qu'à la fin, tout cela sera disponible au moment du paiement.
-
-On peut faire ça pour les anniversaires, Noël, fêtes, achat d'une voiture et j'en passe. J'ai personnellement mis tous les paiements annuels que j'ai pour bien prévoir la chose.
+On peut faire ça pour les anniversaires, Noël, fêtes, achat d'une voiture, impôts locaux et j'en passe.
 
 ## Plus de ressources
 
