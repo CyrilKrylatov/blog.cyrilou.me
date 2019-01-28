@@ -95,30 +95,6 @@ body {
     opacity: .8;
 }
 
-.block-share {
-    margin: 0 0 50px;
-    padding: 0;
-    text-align: center;
-}
-
-.block-share > li {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.block-share > li + li {
-    margin: 0 0 0 20px;
-}
-
-.bs-item svg {
-    width: 20px;
-    fill: #1b1b1b;
-}
-
-.bs-item:hover {
-    opacity: .8;
-}
-
 .main-pagination a {
     color: #777;
 }
@@ -348,7 +324,6 @@ body {
     transition: background-color 0.3s ease-out,color 0.3s ease-out;
 }
 
-.bs-item,
 p a img,
 .block-logo a {
     transition: opacity 0.3s ease-out;
