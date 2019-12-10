@@ -29,7 +29,7 @@ Je n’ai rien maîtrisé parce que je ne sais pas à quoi mon argent va servir 
 
 Je ne parle pas évidemment des coups durs et des imprévus. Ma voiture tombe en panne, faut que j’aille chez le médecin, mon salaire n’est pas arrivé. Ça c’est des cas à part, ce n’est pas vivre au dessus de ses moyens mais plutôt “lol la tuile” et on va y remédier, du moins, essayer de mettre en place de quoi éviter les situations financièrement compliquées.
 
-C’est en tout cas comme ça que moi je vois comment je gère mon budget. Il existe probablement d'autre méthodes mais permettez-moi de noter que je n’ai jamais payé d’agios de ma vie, jamais de refus bancaires, la dernière fois que j’ai vu un conseillé c’était à l’ouverture de mon compte à La Banque Postale au lycée (je suis maintenant chez [Boursorama](https://bour.so/zRfrNMG). Aucun frais bancaires, environ 200 € par an d'économie, faut y réfléchir).
+C’est en tout cas comme ça que moi je vois comment je gère mon budget. Il existe probablement d'autre méthodes mais permettez-moi de noter que je n’ai jamais payé d’agios de ma vie, jamais de refus bancaires, la dernière fois que j’ai vu un conseillé c’était à l’ouverture de mon compte à La Banque Postale au lycée (je suis maintenant chez [Boursorama](https://bour.so/DP2VcHIDOk). Aucun frais bancaires, environ 200 € par an d'économie, faut y réfléchir).
 
 J’ai quelques fois été dans le rouge, le maximum que j’ai fait c’est -100 € mais le mois suivant j’étais à +50. Et c’est rare quand ça arrive. Alors je me dis que ma gestion est pas trop mal.
 
