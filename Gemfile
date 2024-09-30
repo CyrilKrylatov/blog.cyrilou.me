@@ -1,11 +1,9 @@
-# frozen_string_literal: true
+# Gemfile
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+gem "jekyll", "~> 4.2"
 
-# gem "rails"
-
-gem "jekyll", "4.3.4"
-
-gem "jekyll-paginate", "~> 1.1"
+group :jekyll_plugins do
+  gem "jekyll-paginate", "~> 1.1"
+end
