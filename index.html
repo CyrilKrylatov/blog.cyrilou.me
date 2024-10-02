@@ -7,14 +7,12 @@ title: Cyrilou, en toute intimité.
 
     {% for post in paginator.posts %}
         <article class="loop-small">
-            <aside class="lp-metas">
-                <time class="lp-time" datetime="{{ post.date | date_to_xmlschema }}">
-                    {{ post.date | date: "%b %-d, %Y" }}
-                </time>
-            </aside>
-            <h3>
+            <h1>
                 <a class="lpsm-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h3>
+            </h1>
+            <time class="lp-time" datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%b %-d, %Y" }}
+            </time>
             <div class="block-content">
                 {{ post.excerpt }}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="more-link"> Continuer cet article ?</a>
