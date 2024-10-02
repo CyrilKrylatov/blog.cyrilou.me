@@ -125,7 +125,7 @@ body {
    Content
    ------------------------------------------------------- */
 
-.loop-small h3 {
+.loop-small h1 {
     margin: 0;
 }
 
@@ -214,15 +214,11 @@ body {
     line-height: 3rem;
 }
 
-.lp-metas {
-    display: none;
-    position: relative;
-    top: 7px;
-}
-
 .lp-time {
     font-size: 1.2rem;
     font-style: italic;
+    max-width: 560px;
+    margin: 0 auto;
 }
 
 .main .more-link {
