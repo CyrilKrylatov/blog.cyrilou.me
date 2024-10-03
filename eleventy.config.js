@@ -1,6 +1,5 @@
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
-import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
@@ -40,9 +39,6 @@ export default async function(eleventyConfig) {
 	});
 
 	// Official plugins
-	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
-		preAttributes: { tabindex: 0 }
-	});
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
@@ -51,23 +47,17 @@ export default async function(eleventyConfig) {
 		type: "atom", // or "rss", "json"
 		outputPath: "/feed/feed.xml",
 		stylesheet: "pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
-		},
 		collection: {
 			name: "posts",
 			limit: 10,
 		},
 		metadata: {
-			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			language: "fr",
+			title: "Cyrilou, en toute intimité.",
+			subtitle: "J'y parle de choses et d'autres.",
+			base: "https://blog.cyrilou.me/",
 			author: {
-				name: "Your Name"
+				name: "Cyril Krylatov"
 			}
 		}
 	});

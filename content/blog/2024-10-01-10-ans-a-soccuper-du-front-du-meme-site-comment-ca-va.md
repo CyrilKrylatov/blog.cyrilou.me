@@ -18,9 +18,7 @@ C’est parti.
 
 ## La première version du site sur laquelle je n’ai pas tellement travaillé
 
-<div class="photo">
-    <img width="1280" height="1168" src="../images/10-ans-1.jpg" alt="" />
-</div>
+<img width="1280" height="1168" src="../images/10-ans-1.jpg" alt="" />
 
 Quand j’ai commencé à intervenir sur la première version de 5euros, c’était par intermittence. En effet, j’ai été recruté pour d’abord m’occuper du front de BetaSeries, ou sur une appli de rencontre qu’on voulait lancer, je ne sais plus laquelle des deux, et, sur des temps déterminés, de temps en temps, je venais donner un coup de main sur 5euros.
 
@@ -36,9 +34,7 @@ Cette première version du site m’a permis de me familiariser avec le concept 
 
 On arrive fin 2015 / début 2016. La nouvelle version du site est prête.
 
-<div class="photo">
-    <img loading="lazy" width="1280" height="1220" src="../images/10-ans-2.jpg" alt="" />
-</div>
+<img loading="lazy" width="1280" height="1220" src="../images/10-ans-2.jpg" alt="" />
 
 Durant ces presque deux années, de l’autre côté, je me battais avec le front de BetaSeries, à refacto du code legacy, revoir les pages une par une, y supprimer Less, ses nested, ses sélecteurs uniques, améliorer le code écrit avec jQuery en place au profit de Vanilla puis du React. J’ai compris à l’époque comment découper mon intégration en composants, les props, les states, du JS (en dehors du templating de JSX) pour faire fonctionner ça. Cette habitude me suit encore maintenant.
 
@@ -54,9 +50,7 @@ Je m’inspire d’un [article de blog de Ghost](http://dev.ghost.org/css-at-gho
 
 Bref, nous y voilà, New website :
 
-<div class="photo">
-    <img loading="lazy" width="1280" height="169" src="../images/10-ans-3.jpg" alt="" />
-</div>
+<img loading="lazy" width="1280" height="169" src="../images/10-ans-3.jpg" alt="" />
 
 À côté de ça, nous avons un petit peu mieux industrialisé le front, en ayant un designer (le même du site de rencontre et de BetaSeries) qui a fait le design complet de cette nouvelle version sur Sketch et moi qui intègre ça pixel perfect. C’est d’ailleurs toujours le cas-ish (-ish car il y a parfois des pixels qui manquent mais ça reste entre nous).
 
@@ -82,9 +76,7 @@ Concernant le front, toujours l’organisation de fichiers du post de Ghost, MaJ
 
 Et voilà, en 6 ans, le site évolue, on propose de nouvelles choses diverses et variées.
 
-<div class="photo">
-    <img loading="lazy" width="1280" height="1579" src="../images/10-ans-4.jpg" alt="" />
-</div>
+<img loading="lazy" width="1280" height="1579" src="../images/10-ans-4.jpg" alt="" />
 
 ## Changement de nom
 
@@ -96,9 +88,7 @@ Tout ça pour dire que pendant un paquet d’années, on a fonctionné avec ce n
 
 Et du coup, toute cette introduction longue comme la mort pour qu’in fine v’là-t’y pas qu’on a changé de nom.
 
-<div class="photo">
-    <img loading="lazy" width="1280" height="1154" src="../images/10-ans-5.jpg" alt="" />
-</div>
+<img loading="lazy" width="1280" height="1154" src="../images/10-ans-5.jpg" alt="" />
 
 Cette fois, côté front, le changement de DA est un peu plus léger qu’entre les deux versions précédentes de 5euros : la page d’accueil est entièrement revue, le header et le footer également. Le header mobile avec les catégories m’a fait très longtemps suer à l’époque, mais c’était [techniquement un challenge](https://x.com/IAmNotCyril/status/1539596946628923395) que de ne pas utiliser de JS pour le gérer (j’aurais dû, mais attends, l’auto-critique de mon travail, de mon métier et de ma vie en général, 90 € la consultation merci, c’est à la fin).
 
@@ -116,9 +106,7 @@ Sur une note autre que le côté purement développement, je suis également él
 
 ## Aujourd’hui
 
-<div class="photo">
-    <img loading="lazy" width="1280" height="921" src="../images/10-ans-6.jpg" alt="" />
-</div>
+<img loading="lazy" width="1280" height="921" src="../images/10-ans-6.jpg" alt="" />
 
 Donc actuellement, nous en sommes là en termes de front, entre autres : toujours du Bootstrap, du Stimulus, de l’atomic, de moins en moins de CSS, la plupart des interactions front sont gérées par le back grâce à Symfony UX et surtout les [UX Live Component](https://symfony.com/bundles/ux-live-component/current/index.html) donc on gagne tous du temps (surtout moi, le moins de JS, le mieux je me porte, dans le sens où on a pas mal d’interactions UI gérées presque uniquement via le back), tout ça au profit de l’utilisateur.
 
