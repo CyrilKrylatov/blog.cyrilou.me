@@ -1,7 +1,8 @@
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import { Image, eleventyImagePlugin, eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+
 import pluginFilters from "./_config/filters.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
@@ -59,36 +60,6 @@ export default async function(eleventyConfig) {
 				name: "Cyril Krylatov"
 			}
 		}
-	});
-
-  eleventyConfig.addShortcode("image", async function (src, alt, widths = [300, 600], sizes = "100vh") {
-		let metadata = await new Image(src, {
-			widths,
-			formats: ["auto"],
-		});
-
-		let imageAttributes = {
-			alt,
-			sizes,
-			loading: "lazy",
-			decoding: "async",
-		};
-
-		// You bet we throw an error on a missing alt (alt="" works okay)
-		return Image.generateHTML(metadata, imageAttributes);
-	});
-
-  eleventyConfig.addPlugin(eleventyImagePlugin, {
-		// options via https://www.11ty.dev/docs/plugins/image/#usage
-		formats: ["auto"],
-
-		urlPath: "/img/",
-
-		defaultAttributes: {
-			loading: "lazy",
-			decoding: "async",
-			"eleventy:ignore": "",
-		},
 	});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
