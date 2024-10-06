@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+/* ----------------------------------------------------------
+   Common
+   ------------------------------------------------------- */
+
+html {
+ box-sizing: border-box;
+ height: 100%;
+}
+
+*,
+*:after,
+*:before {
+ box-sizing: inherit;
+}
+
+body {
+ margin: 0;
+ padding: 3rem 2rem;
+ min-height: 100%;
+ border-top: 3px #1d1d1d solid;
+ font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ font-size: 1.2rem;
+ line-height: 1.5;
+ color: #1b1b1b;
+ background: #fff;
+}
+
+img {
+ display: block;
+ height: auto;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+main {
+ margin: 0 auto;
+ max-width: 1280px;
+}
+
+main > *:not(picture) {
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ max-width: 560px;
+}
+
+time {
+ margin-top: .8rem;
+ margin-bottom: .8rem;
+ font-size: .95rem;
+ font-style: italic;
+}
+
+/* ----------------------------------------------------------
+   Header
+   ------------------------------------------------------- */
+
+header {
+ margin: 0 0 40px;
+ font-size: 0;
+}
+
+header a:hover {
+ opacity: .8;
+}
+
+/* ----------------------------------------------------------
+   Navigation
+   ------------------------------------------------------- */
+
+.links-nextprev {
+ margin-bottom: 0;
+ padding-left: 0;
+ list-style: none;
+}
+
+.links-nextprev li + li {
+ margin-top: .4rem;
+}
+
+/* ----------------------------------------------------------
+   Footer
+   ------------------------------------------------------- */
+
+footer {
+ margin: 0 auto;
+ padding: 2rem 0;
+ max-width: 560px;
+ font-size: .8rem;
+ font-style: italic;
+}

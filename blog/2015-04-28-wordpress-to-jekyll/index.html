@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>De WordPress à Jekyll</title>
+		<meta name="description" content="Mon p&#39;tit blog.">
+		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="Cyrilou, en toute intimité">
+
+		<meta name="generator" content="Eleventy v3.0.0">
+		
+		<style>@charset "utf-8";
+
+/* ----------------------------------------------------------
+   Common
+   ------------------------------------------------------- */
+
+html {
+ box-sizing: border-box;
+ height: 100%;
+}
+
+*,
+*:after,
+*:before {
+ box-sizing: inherit;
+}
+
+body {
+ margin: 0;
+ padding: 3rem 2rem;
+ min-height: 100%;
+ border-top: 3px #1d1d1d solid;
+ font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ font-size: 1.2rem;
+ line-height: 1.5;
+ color: #1b1b1b;
+ background: #fff;
+}
+
+img {
+ display: block;
+ height: auto;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+main {
+ margin: 0 auto;
+ max-width: 1280px;
+}
+
+main > *:not(picture) {
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ max-width: 560px;
+}
+
+time {
+ margin-top: .8rem;
+ margin-bottom: .8rem;
+ font-size: .95rem;
+ font-style: italic;
+}
+
+/* ----------------------------------------------------------
+   Header
+   ------------------------------------------------------- */
+
+header {
+ margin: 0 0 40px;
+ font-size: 0;
+}
+
+header a:hover {
+ opacity: .8;
+}
+
+/* ----------------------------------------------------------
+   Navigation
+   ------------------------------------------------------- */
+
+.links-nextprev {
+ margin-bottom: 0;
+ padding-left: 0;
+ list-style: none;
+}
+
+.links-nextprev li + li {
+ margin-top: .4rem;
+}
+
+/* ----------------------------------------------------------
+   Footer
+   ------------------------------------------------------- */
+
+footer {
+ margin: 0 auto;
+ padding: 2rem 0;
+ max-width: 560px;
+ font-size: .8rem;
+ font-style: italic;
+}</style>
+
+	</head>
+	<body>
+		<header>
+			<a href="/eleventy-base-blog/" aria-label="Cyrilou, en toute intimité">
+                <picture><source type="image/avif" srcset="/eleventy-base-blog/img/EWYaswpLHw-164.avif 164w"><source type="image/webp" srcset="/eleventy-base-blog/img/EWYaswpLHw-164.webp 164w"><img loading="lazy" decoding="async" src="/eleventy-base-blog/img/EWYaswpLHw-164.png" width="164" height="164" alt=""></picture>
+            </a>
+		</header>
+
+		<main>
+			<h1 id="de-wordpress-a-jekyll">De WordPress à Jekyll</h1>
+
+<time datetime="2015-04-28">28 April 2015</time>
+
+<p>Salut, c'est Cyril. Voici un article technique (pour changer) créé à la demande de <a href="https://twitter.com/LegZ/status/589863615597039616">@LegZ</a> concernant ma transition de WordPress à Jekyll.</p>
+<!--more-->
+<h2 id="pourquoi">Pourquoi ?</h2>
+<p>On m'a demandé si c'était un souci d'hébergement ou être un dev un peu plus hype : <em>pas du tout</em>. Moi, globalement, le back, j'm'en balance pas mal.
+C'est juste que WordPress, je n'utilisais vraiment plus grand chose du CMS, les seuls plugins que j'avais : Disqus et un plugin de cache pour palier à la lenteur de WordPress.</p>
+<p>Du coup, pourquoi ne pas prendre une techno plus légère et rapide d'exécution ?</p>
+<h2 id="comment-l-installer">Comment l'installer ?</h2>
+<p>Alors, déjà, il faut savoir que la migration WordPress à Jekyll a été pliée en moins de 30 minutes grâce à <a href="http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/">ce lien</a>. Tout est automatique grâce à quelques plugins, c'est du clic-clic-upload-clic-wala-fini.</p>
+<p>Le plus long a été de finalement réintégrer le thème et de se faire au layout de Jekyll. Dieu merci, étant peu performant en design, mon blog n'a pas été trop long à réintégrer.</p>
+<p>J'en ai profité pour passer tout ça sous Grunt (je n'ai jamais pris le temps de le faire sous WordPress) et retaper un peu le CSS, que ça ressemble un peu plus à quelque chose.</p>
+<p>Du fait que mon blog soit hébergé sur GitHub, le code source est accessible sur <a href="https://github.com/DaPo/blog.cyrilou.me">Mon compte GitHub</a> !</p>
+<p>Tout ceci se rapproche évidemment plus que jamais du workflow qu'on a à <a href="http://www.ouichelorraine.com/">le travail</a>.</p>
+<h2 id="le-plus-relou">Le plus relou</h2>
+<p>Le plus relou dans l'histoire, cependant, a été de mettre les bonnes zones DNS là où il fallait, mais rien d'insurmontable quand on a un CTBro qui fait ça en &quot;j'ai 5 minutes avant de partir à mon rendez-vous on voit ça tout de suite&quot;, magnifique.</p>
+<p>Bref, voilà, parfait.</p>
+<h2 id="a-venir">À venir</h2>
+<p>Finir d'intégrer le thème (remettre les photos en header d'image), trouver un colorateur syntaxique, remettre les <a href="http://ogp.me/">OpenGraph</a>,  pourquoi pas passer sur <a href="https://cssnext.github.io/">cssnext</a> (et ensuite l'imposer aux collègues, hhhehe).</p>
+<p>Cet article est également le premier que je rédige entièrement en markdown ! \o<br>
+... et corrigé via une pull request ! /o/ (merci <a href="https://github.com/DaPo/blog.cyrilou.me/pull/2">@LegZ</a> !)</p>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← <a href="/eleventy-base-blog/blog/2014-12-24-codeurs-en-seine-jy-etais/">Codeurs en Seine : j&amp;rsquo;y étais !</a></li><li class="links-nextprev-next"><a href="/eleventy-base-blog/blog/2015-06-03-lintegration-de-diwi/">Intégration de Diwi</a> →</li>
+</ul>
+
+		</main>
+
+		<footer>
+			<p>
+                <em>Built with <a href="https://www.11ty.dev/">Eleventy v3.0.0</a></em>.
+                Contact me on <a href="https://github.com/CyrilKrylatov/">GitHub</a>.
+            </p>
+		</footer>
+		
+	</body>
+</html>
