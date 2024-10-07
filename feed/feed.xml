@@ -280,4 +280,468 @@ Ce qu&#39;il faut savoir, c&#39;est que YNAB, au mois suivant, permettra de remp
 &lt;p&gt;&lt;a href=&quot;https://github.com/DaPo/blog.cyrilou.me/commit/ebe1f1e2792df6b840bcb7a87913bcc2fede58e5&quot;&gt;21/10/19&lt;/a&gt; : j&#39;ai revu la &lt;a href=&quot;https://blog.cyrilou.me/blog/2018-07-19-gerer-ses-finances/#anticiper-les-d%C3%A9penses-annuelles-gr%C3%A2ce-aux-goals&quot;&gt;partie des goals&lt;/a&gt; en donnant en exemple les dépenses annuelles, ce qui me semblait plus terre-à-terre qu&#39;un voyage à NYC.&lt;/p&gt;
 </content>
   </entry>
+  <entry>
+    <title>Gérer ses sauvegardes macOS / iOS et photos</title>
+    <link href="https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/" />
+    <updated>2017-08-20T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/</id>
+    <content type="html">&lt;p&gt;Aujourd&#39;hui, comme promis dans mon &lt;a href=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/changement-habitudes-bancaires/&quot;&gt;précédent article&lt;/a&gt;, je vais expliquer ici comment j&#39;utilise les différents services Amazon et iCloud et, plus précisément, comment je gère mes sauvegardes. Parce que oui, les deux sont liés.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Pour profiter de tous les services Amazon, il faut avoir un compte &lt;a href=&quot;https://www.amazon.fr/gp/prime&quot;&gt;Amazon Prime&lt;/a&gt; qui est la clé de la caverne d&#39;Ali Baba.&lt;/p&gt;
+&lt;p&gt;Inclus dans le forfait :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Livraison de certains produits en 1 jour ouvré&lt;/li&gt;
+&lt;li&gt;Prime Now&lt;/li&gt;
+&lt;li&gt;Prime Video&lt;/li&gt;
+&lt;li&gt;Twich Prime&lt;/li&gt;
+&lt;li&gt;Stockage illimité pour les photos sur Amazon Drive&lt;/li&gt;
+&lt;li&gt;Prêt de livres Kindle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce forfait coûte 50 € par an et on peut ajouter jusqu&#39;à &lt;a href=&quot;https://www.amazon.fr/gp/help/customer/display.html?ie=UTF8&amp;amp;nodeId=201284540&quot;&gt;deux membres au compte&lt;/a&gt; (sans qu&#39;ils n&#39;aient à payer en plus, évidemment).&lt;/p&gt;
+&lt;p&gt;Pour tout ce que ça propose, je suis personnellement tout à fait content des services qu&#39;ils fournissent que j&#39;utilise tous les jours. Voyons ça.&lt;/p&gt;
+&lt;h2 id=&quot;livraison-de-certain-produits-en-1-jour-ouvre&quot;&gt;
+    Livraison de certain produits en 1 jour ouvré
+&lt;/h2&gt;
+&lt;p&gt;Sur beaucoup de produits Amazon, la livraison est assurée en une journée ouvrée. Il faut que le petit logo &amp;quot;Prime&amp;quot; soit présent à côté du nom de l&#39;article. C&#39;est agréable, ça fait plaisir, on en profite.&lt;/p&gt;
+&lt;h2 id=&quot;prime-now&quot;&gt;Prime Now&lt;/h2&gt;
+&lt;p&gt;On a quasiment arrêté de faire nos courses en grande surface. J&#39;avais fait un &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10154304838822436&amp;amp;set=a.10150206477112436.333922.792742435&amp;amp;type=3&quot;&gt;post sur Facebook&lt;/a&gt; pour expliquer comment avec &lt;a href=&quot;https://primenow.amazon.fr/&quot;&gt;Prime Now&lt;/a&gt; environ tout le temps moins cher qu&#39;au Monoprix au bout de ma rue et livré à ma porte.&lt;/p&gt;
+&lt;p&gt;La livraison est gratuite (enfin, incluse dans le compte Amazon Prime) et on peut choisir des plages horaires de 2 heures, de 8 h à 22 h, voire minuit.&lt;/p&gt;
+&lt;p&gt;En revanche attention : c&#39;est plus une grande épicerie qu&#39;une grande surface.&lt;/p&gt;
+&lt;p&gt;Du coup, tout le monde n&#39;y trouvera pas forcément son compte. Il y a beaucoup de choses sans forcément tout avoir.&lt;/p&gt;
+&lt;p&gt;Points négatifs (enfin pas pour moi, du fait) : c&#39;est Paris uniquement et on ne peut pas se faire livrer de &lt;a href=&quot;https://www.amazon.com/Tesla-2016-S/dp/B01CEA8276&quot;&gt;Tesla S&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;prime-video-twich-prime-et-pret-de-livres-kindle&quot;&gt;
+    Prime video, Twich Prime et prêt de livres Kindle
+&lt;/h2&gt;
+&lt;p&gt;Bon, tout est dit : &lt;a href=&quot;https://www.primevideo.com&quot;&gt;Prime Video&lt;/a&gt; produit des séries (dont &lt;a href=&quot;https://www.primevideo.com/detail/0PQETKSPCYRRYT0IFUIS9G1CQ2/ref=sr_hom_c_unkc_1_1?sr=1-1&amp;amp;qid=1503229038&quot;&gt;The Grand Tour&lt;/a&gt;). Le catalogue n&#39;est pas fifou mais les séries qu&#39;ils produisent sont de bonne qualité.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitch.amazon.com/prime&quot;&gt;Twich Prime&lt;/a&gt;, chépotro ce qu&#39;ils proposent, je m&#39;intéresse pas du tout à Twich. Mais Amazon ayant racheté Twich, ils doivent proposer des choses sympas.&lt;/p&gt;
+&lt;p&gt;Pour les &lt;a href=&quot;https://www.amazon.fr/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;amp;nodeId=200757120&quot;&gt;prêts de livres Kindle&lt;/a&gt;, je n&#39;ai jamais essayé, en l&#39;écrivant je me dis que c&#39;est un peu bête et que je devrais le faire.&lt;/p&gt;
+&lt;h2 id=&quot;stockage-illimite-pour-les-photos-sur-amazon-drive&quot;&gt;
+    Stockage illimité pour les photos sur Amazon Drive
+&lt;/h2&gt;
+&lt;p&gt;Aaaaaah, voilà, ça, ça commence à nous intéresser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.fr/b?node=12935596031&quot;&gt;Amazon Drive&lt;/a&gt; c&#39;est l&#39;espace de stockage d&#39;Amazon. Et ce qui nous intéresse, c&#39;est que le stockage y est &lt;a href=&quot;https://www.amazon.fr/l/12364772031/ref=s9_acss_bw_cg_FRADHERO_7a1_w?pf_rd_m=A1X6FK5RDHNB96&amp;amp;pf_rd_s=merchandised-search-2&amp;amp;pf_rd_r=89BQV1M0BQMS5D186DN1&amp;amp;pf_rd_t=101&amp;amp;pf_rd_p=545b5994-6323-4208-93cf-13fa983a2d6d&amp;amp;pf_rd_i=12935596031&quot;&gt;illimité pour les photos&lt;/a&gt;. Il prend également &lt;a href=&quot;https://www.amazon.fr/gp/help/customer/display.html?nodeId=201649930&quot;&gt;certains formats de fichiers RAW&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Et c&#39;est là que c&#39;est intéressant pour nous.&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/HqoFl1FCoT-581.avif 581w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/HqoFl1FCoT-581.webp 581w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;581&quot; height=&quot;310&quot; src=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/HqoFl1FCoT-581.png&quot; alt=&quot;Capture d&#39;écran d&#39;Amazon Drive présentant 160 Go de photos&quot; title=&quot;endirer sa fé bcp&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;Personnellement, ça va faire gentiment 10 ans (🙀) que j&#39;ai un reflex dans les mains. Ce qui correspond, à date, à 30,147 fichiers, soit 160 Go (photos à l&#39;iPhone incluses).&lt;/p&gt;
+&lt;p&gt;Au début, je les conservais dans un des disques durs que j&#39;ai à la maison, triés par année, puis mois, puis évènement. Ce que je fais toujours quand les fichiers viennent de mon &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/&quot;&gt;Fuji X100T&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il y a bientôt 1 an j&#39;ai tout mis en ligne sur Amazon Drive grâce à leur &lt;a href=&quot;https://www.amazon.fr/b?_encoding=UTF8&amp;amp;node=12915099031&amp;amp;ref=cd_get_app&quot;&gt;application dédiée&lt;/a&gt; vraiment bien foutue.&lt;/p&gt;
+&lt;p&gt;Pour les photos d&#39;iPhone, je les upload grâce à l&#39;application &lt;a href=&quot;https://itunes.apple.com/us/app/prime-photos-from-amazon/id621574163?mt=8&quot;&gt;Prime Photos&lt;/a&gt; qui est très très bien foutue également.&lt;/p&gt;
+&lt;p&gt;Ce que j&#39;aime précisément, en plus que ça backup mes photos, c&#39;est que tous les jours j&#39;ai les photos à date des années précédentes qui s&#39;affichent.&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/fAT2zSLNFd-621.avif 621w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/fAT2zSLNFd-621.webp 621w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;621&quot; height=&quot;1104&quot; src=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/fAT2zSLNFd-621.jpeg&quot; alt=&quot;Capture d&#39;écran de l&#39;application Prime Photos&quot; title=&quot;endirer ya lénou&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;Là par exemple je sais que ce jour l&#39;année dernière &lt;a href=&quot;https://www.instagram.com/p/BI2K50tgAe1/&quot;&gt;j&#39;étais au jardin des Tuileries pour jouer à Pokémon GO&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Du coup, yay ! Mes photos sont en ligne.&lt;/p&gt;
+&lt;p&gt;Je les mets également sur Dropbox et Google Photos mais je vais arrêter parce que…&lt;/p&gt;
+&lt;h2 id=&quot;icloud&quot;&gt;
+    iCloud
+&lt;/h2&gt;
+&lt;p&gt;Pour sauvegarder mes photos d&#39;iPhone, j&#39;utilise d&#39;une part Amazon Drive et d&#39;autre part iCloud.&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/axn5rj2VCw-621.avif 621w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/axn5rj2VCw-621.webp 621w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;621&quot; height=&quot;1104&quot; src=&quot;https://blog.cyrilou.me/blog/2017-08-20-backups-macos-ios/axn5rj2VCw-621.jpeg&quot; alt=&quot;Capture d&#39;écran d&#39;iCloud&#39;&quot; title=&quot;endirer ya bcp de photos&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;Pour &lt;a href=&quot;https://support.apple.com/fr-fr/HT201318&quot;&gt;2,99 € par mois&lt;/a&gt; j&#39;ai 200 Go d&#39;iCloud qui me permet de backup de façon tout à fait transparente &lt;a href=&quot;https://support.apple.com/fr-fr/HT207428&quot;&gt;plein d&#39;éléments&lt;/a&gt; dont mes photos et vidéos, historiques d&#39;appels, messages iMessages, SMS et MMS, écrans, applications.&lt;/p&gt;
+&lt;p&gt;Je n&#39;ai rien trouvé de mieux, transparent et plus agréable à utiliser pour sauvegarder mon iPhone.&lt;/p&gt;
+&lt;p&gt;Si demain mon iPhone crash complètement, pas de panique, iCloud sera là pour tout me remettre en état et c&#39;est parfait.&lt;/p&gt;
+&lt;p&gt;Je ne saurai que trop conseiller aux possesseurs d&#39;iPhone d&#39;investir dans ce plan.&lt;/p&gt;
+&lt;p&gt;Également c&#39;est 200 Go d&#39;iCloud Drive. Actuellement j&#39;ai 60 Go d&#39;utilisés, il me reste 140 Go de libre où je peux mettre n&#39;importe quel document.&lt;/p&gt;
+&lt;p&gt;Pour finir, l&#39;iPhone permet d&#39;avoir une &lt;a href=&quot;https://support.apple.com/fr-fr/HT205703&quot;&gt;option d&#39;optimisation de stockage des photos et vidéos&lt;/a&gt;. C&#39;est-à-dire que sur l&#39;iPhone, ne sera stockée qu&#39;une version réduite des photos et vidéos et appellera la version originale d&#39;iCloud à la demande.&lt;/p&gt;
+&lt;p&gt;Donc, si vous ne l&#39;avez toujours pas fait : &lt;strong&gt;foncez&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;macos&quot;&gt;
+    macOS
+&lt;/h2&gt;
+&lt;p&gt;Pour finir, j&#39;utilise TimeMachine sur un HDD branché en USB sur mon Mac, rien de fou là-dedans.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;
+    Conclusion
+&lt;/h2&gt;
+&lt;p&gt;Les backups, c&#39;est important. Posez-vous la question : &amp;quot;si demain, mon Mac ou mon iPhone crash et je perds toutes mes données, que se passera-t-il ?&amp;quot;&lt;/p&gt;
+&lt;p&gt;Personnellement, rien, à part le temps que j&#39;attendrai que mes backups se fassent.&lt;/p&gt;
+&lt;p&gt;Eh oui.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quelque photos prises au X100F</title>
+    <link href="https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/" />
+    <updated>2017-02-25T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/</id>
+    <content type="html">&lt;p&gt;La semaine dernière, lors du &lt;a href=&quot;http://www.festival-circulations.com/&quot;&gt;Festival Circulation(s)&lt;/a&gt; au Centquatre-Paris, j&#39;ai pu tester le tout nouveau Fujifilm X100F et j&#39;en suis maintenant amoureux.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Cela fait maintenant bientôt &lt;a href=&quot;http://blog.cyrilou.me/2012/03/21/le-bel-objet/&quot;&gt;5 ans&lt;/a&gt; que j&#39;ai décidé de me débarasser de mon Nikon D90 au profit de la gamme des X100 de Fuji. J&#39;ai commencé par le X100, j&#39;en suis actuellement au X100T et c&#39;est sans aucun doute que j&#39;achèterai le X100F d&#39;ici peu.&lt;/p&gt;
+&lt;p&gt;Durant ce festival, &lt;a href=&quot;https://twitter.com/fujifilmfrance/status/832891112113176576&quot;&gt;Fujifilm France y avait un stand&lt;/a&gt; où on pouvait tester leurs différents appareils, notamment le tout nouveau X100F que je convoite depuis sa sortie.&lt;/p&gt;
+&lt;p&gt;Les photos suivantes ne sont absolument pas retouchées. D&#39;habitudes, les &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/&quot;&gt;photos de mon Tumblr&lt;/a&gt; subissent un très léger recadrage quand la photo n&#39;est pas droite et également un petit coup de contraste renforcé.&lt;/p&gt;
+&lt;p&gt;Là, rien. Parce que d&#39;une part &lt;a href=&quot;https://forums.adobe.com/thread/2282532&quot;&gt;Lightroom ne sait pas encore ouvrir les photos car trop récent&lt;/a&gt; et d&#39;autre part, je n&#39;ai pas l&#39;impression que cela aurait été nécessaire.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/157686719035&quot;&gt;
+        &lt;picture&gt;
+            &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/9c96b65cc9b05f1120fd8da3fc7845b3/tumblr_olxdnwIyRs1qih5yzo1_500.jpg&quot;&gt;
+            &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/h_cAndDpyr-1280.avif 1280w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/h_cAndDpyr-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/h_cAndDpyr-1280.jpeg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Photo prise avec le X100F&quot;&gt;&lt;/picture&gt;
+        &lt;/picture&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/157686717745&quot;&gt;
+        &lt;picture&gt;
+            &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/a27d651b730ef7525981ddd26a18953f/tumblr_olxdnrSi761qih5yzo1_500.jpg&quot;&gt;
+            &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/S-SnSdQHuu-1280.avif 1280w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/S-SnSdQHuu-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/S-SnSdQHuu-1280.jpeg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Photo prise avec le X100F&quot;&gt;&lt;/picture&gt;
+        &lt;/picture&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/157686720250&quot;&gt;
+        &lt;picture&gt;
+            &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/8b1e2528de4530ebdc1325648c75e5dd/tumblr_olxdo0ht5M1qih5yzo1_500.jpg&quot;&gt;
+            &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/073G7dKssD-1280.avif 1280w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/073G7dKssD-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/073G7dKssD-1280.jpeg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Photo prise avec le X100F&quot;&gt;&lt;/picture&gt;
+        &lt;/picture&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/157686724190&quot;&gt;
+        &lt;picture&gt;
+            &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/bea35ab1259e5b968de26a9cf77f14de/tumblr_olxdodovyR1qih5yzo1_500.jpg&quot;&gt;
+            &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/NvVrDo9W_M-1280.avif 1280w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/NvVrDo9W_M-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/NvVrDo9W_M-1280.jpeg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Photo prise avec le X100F&quot;&gt;&lt;/picture&gt;
+        &lt;/picture&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/157686726825&quot;&gt;
+        &lt;picture&gt;
+            &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/71ad555b6c45d407143f23c4e99ece2f/tumblr_olxdolUbcO1qih5yzo1_500.jpg&quot;&gt;
+            &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/F2aePvpool-1280.avif 1280w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/F2aePvpool-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-25-test-photos-fujifilm-x100f/F2aePvpool-1280.jpeg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Photo prise avec le X100F&quot;&gt;&lt;/picture&gt;
+        &lt;/picture&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;L&#39;appareil est très beau en noir, l&#39;ergonomie ne change pas énormément du X100T. J&#39;ai l&#39;impression que les photos sont quand même plus détaillées et surtout contrastées, ce qu&#39;il me manquait sur le X100T.&lt;/p&gt;
+&lt;p&gt;Il y a plusieurs tests bien plus complets que le miens sur Internet, notemment chez &lt;a href=&quot;http://www.lefujiste.com/x100f-test-terrain/&quot;&gt;Le Fujiste&lt;/a&gt; mais surtout différents ambassadeurs Fujifilm qui ont eu la chance de &lt;a href=&quot;http://fujifilm-x.com/cameras/x100f/&quot;&gt;le tester&lt;/a&gt; bien plus longtemps et précisément que moi.&lt;/p&gt;
+&lt;p&gt;Le reste des photos se trouve sur &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/&quot;&gt;mon Tumblr&lt;/a&gt; !&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>J&#39;aime écouter des podcasts.</title>
+    <link href="https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/" />
+    <updated>2017-02-19T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/</id>
+    <content type="html">&lt;p&gt;Sans plus d&#39;introduction que nécessaire, voici la liste des podcasts que j&#39;écoute. Aucun ordre de préférence si ce n&#39;est alphabétique.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;2-heures-de-perdues&quot;&gt;2 Heures De Perdues&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZLAvhkuKri-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZLAvhkuKri-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZLAvhkuKri-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast 2 Heures de Perdues&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/PMB_fm&quot;&gt;Antoine&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Julie_Anna_G&quot;&gt;Julie&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/sarah2hdp&quot;&gt;Sarah&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Lea_G0&quot;&gt;Léa&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/evesaintlouis&quot;&gt;Éva&lt;/a&gt; se réunissent autour de micros pour parler d&#39;un film et en font la critique. C&#39;est autant de mauvaise foi que c&#39;est drôle, toujours juste, des privates jokes qui se suivent, ils font tout pour qu&#39;on soit avec eux, dans leur salon, à leur côté, et c&#39;est très agréable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Le rire d&#39;Antoine et de Julie, quand Antoine présente les personnes présentes en rallongeant les syllabes en début d&#39;émission, les massives.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/2-heures-de-perdues/id949530802&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;after-hate&quot;&gt;After Hate&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/TEAz3WRRBN-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/TEAz3WRRBN-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/TEAz3WRRBN-560.jpeg&quot; height=&quot;336&quot; width=&quot;560&quot; alt=&quot;Logo du podcast After Height&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Le podcast qui déconstruit la pop culture, présenté par &lt;a href=&quot;https://twitter.com/Kwyxz&quot;&gt;kwyxz&lt;/a&gt; et &lt;a href=&quot;https://twitter.com/Kamuirobotics&quot;&gt;Kamuirobotics&lt;/a&gt;. Bon ben tout est dit dans la présentation, deux copains qui parlent d&#39;un sujet actuel de pop culture. Sujets variés, bien expliqués, parfois de la mauvaise foi mais avec justesse. Également, à la fin du podcast, toujours une petite recommandation d&#39;un truc à lire, écouter ou voir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Quand kwyxz n&#39;aime pas quand on lui coupe la parole, les intros de Kamuirobotics pour présenter kwyxz.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/after-hate/id1094216861&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;banquette&quot;&gt;Banquette&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/DPAyZ9SUYV-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/DPAyZ9SUYV-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/DPAyZ9SUYV-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Banquette&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/AbdallahSoidri&quot;&gt;Abdallah Soidri&lt;/a&gt;, journaliste sportif, interroge différents acteurs du football. Toujours des gens tout à fait intéressants qui ont des choses intéressantes et originales à dire. N&#39;étant pas fan hardcore de football mais aimant quand même son univers, j&#39;aime beaucoup les écouter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; La culture foot d&#39;Abdallah.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/banquette/id1172772919&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;bouffons&quot;&gt;Bouffons&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/7Nz5-X3LiC-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/7Nz5-X3LiC-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/7Nz5-X3LiC-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Bouffons&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/GuilhemMalissen&quot;&gt;Guilhem Malissen&lt;/a&gt; nous parle de bouffe. Tout simplement. Ramen, bouffe de cantine, couscous, bouillons : un point de gastronomie présenté, avec des invités passionnés par leur métier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; G f1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/bouffons/id1324604234&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;community-manager&quot;&gt;COMMUNITY MANAGER&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/cFMSLg4fGY-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/cFMSLg4fGY-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/cFMSLg4fGY-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Community Manager&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; C&#39;est &lt;a href=&quot;https://twitter.com/natas&quot;&gt;Guillaume Natas&lt;/a&gt; qui nous emmène dans les communautés sombres d&#39;Internet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Jamais aucun jugement de valeur sur les communautés présentées, toujours intéressant et documenté, très instructif.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/community-manager/id1380074584&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;culture-2000&quot;&gt;Culture 2000&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/eDqZv3eYja-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/eDqZv3eYja-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/eDqZv3eYja-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Culture 2000&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Même écurie que &lt;em&gt;2 Heures de Perdues&lt;/em&gt;, ce sont plusieurs personnes qui se réunissent pour parler d&#39;un point historique, géographique ou politique. Jamais barbant, toujours bien expliqué même des sujets parfois compliqués, bref, très accessible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Ne pas me sentir plus con qu&#39;un autre en les écoutant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/culture-2000/id1121043330&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;epatant-podcast-omnisport&quot;&gt;Epatant Podcast Omnisport&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/KlANrlEqmd-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/KlANrlEqmd-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/KlANrlEqmd-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast EPO&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Même écurie que &lt;em&gt;2 Heures de Perdues&lt;/em&gt;, ce sont plusieurs personnes qui se réunissent pour parler d&#39;un point sport précis. Que ce soit Moto GP, Sport et guerre froide ou encore Imola 1994, ils reviennent sur les moments marquants du sport.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; J&#39;ai toujours entendu parlé de ces faits sportifs sans m&#39;y renseigner plus que ça. Du coup même si je ne connais rien au sport présenté, c&#39;est tellement bien expliqué qu&#39;on s&#39;y retrouve qu&#39;importe le sujet abordé !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/e-p-o/id1352388007&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;floodcast&quot;&gt;FloodCast&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/QXV4OFsBMB-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/QXV4OFsBMB-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/QXV4OFsBMB-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast FloodCast&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Podcast créé et dirigé par &lt;a href=&quot;https://twitter.com/mrflober&quot;&gt;@FloBer&lt;/a&gt;, il y invite diverses personnes, principalement du Golden Moustache. C&#39;est extrèmement drôle, c&#39;est de l&#39;humour parfois débile, parfois noir, je pense que je les écouterai une seconde fois d&#39;ici peu. Un sujet choisi par FloBer et ils foncent tous dedans et en racontent de sacrées belles saloperies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Avoir pleuré de rire comme un teubé tout seul dans la rue en les écoutant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/floodcast/id1019768302&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;histoires-de-darons&quot;&gt;Histoires de Darons&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/rXu86uJGSN-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/rXu86uJGSN-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/rXu86uJGSN-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Histoires de Darons&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/fabflorent&quot;&gt;Fabrice Florent&lt;/a&gt; invite des darons à son micro pour nous parler de leur expérience. Très intéressant et surtout très utile si on est dans le sujet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Rah, oh, hé, vous comprendrez quand vous aurez des gamins hin.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/histoires-de-darons/id1281339122&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;la-poudre&quot;&gt;La Poudre&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/PFDF1n5JZd-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/PFDF1n5JZd-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/PFDF1n5JZd-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast La Poudre&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &amp;quot;&lt;a href=&quot;https://www.instagram.com/laurenbastide/&quot;&gt;Lauren Bastide&lt;/a&gt; reçoit dans une chambre d’hôtel une femme inspirante, artiste, activiste, politique pour une conversation intime et profonde.&amp;quot; — &lt;a href=&quot;https://www.nouvellesecoutes.fr/la-poudre/&quot;&gt;Pas mieux&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Ouverture sur le féminisme, son histoire, incroyablement intéressant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/la-poudre/id1172772210&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;les-baladeurs&quot;&gt;Les baladeurs&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/Y8seLj3Gsh-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/Y8seLj3Gsh-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/Y8seLj3Gsh-560.jpeg&quot; width=&quot;560&quot; height=&quot;262&quot; alt=&quot;Logo du podcast Les Baladeurs&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Podcast créé par le site &lt;a href=&quot;https://www.lesothers.com/les-baladeurs-podcast-aventure/&quot;&gt;Les Others&lt;/a&gt;, Les Baladeurs nous présente différents explorateurs qui partent là où il n&#39;y a rien.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Très bonne production, seule la voix de l&#39;interviewé•e est présente. La personne raconte son aventure, nous emmène avec elle, on voyage, c&#39;est incroyable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/les-baladeurs/id1388330691&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;lumieres-dans-la-nuit&quot;&gt;Lumières dans la nuit&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/25HABZc5rg-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/25HABZc5rg-1024.webp 1024w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/25HABZc5rg-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot; alt=&quot;Logo de Lumières dans la nuit&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Pas un podcast mais un replay d&#39;émission, Lumières dans la nuit est une émission censé aidé à nous faire passer le blues du dimanche soir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Je ne connaissais pas plus que ça Édouard Baer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/lumi%C3%A8res-dans-la-nuit/id1434734500&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;putain-de-code&quot;&gt;Putain de Code !&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/td1ENwGwKR-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/td1ENwGwKR-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/td1ENwGwKR-560.jpeg&quot; height=&quot;560&quot; width=&quot;560&quot; alt=&quot;Logo du podcast Putain de Code !&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Les tauliers de &lt;a href=&quot;http://putaindecode.io/&quot;&gt;Putain de Code&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/bloodyowl&quot;&gt;bloodyown&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/skinnyfoetusboy&quot;&gt;skinnyfoetusboy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/zoontek&quot;&gt;Zoontek&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/moox&quot;&gt;MoOx&lt;/a&gt;) parlent de développement front-end. Podcast encore très jeune car 3 épisodes seulement, assez technique mais accessible, ils savent de quoi ils parlent et c&#39;est chouette.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mon kink&lt;/strong&gt; Heu j&#39;en ai pas spécialement d&#39;autant que je connais très bien Zoontek alors si je commence à dire des truc sur lui enfin bref non ça ira merci.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/putain-de-code/id1185311825&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;riviera-detente&quot;&gt;Riviera Détente&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/2mOQnt-j0M-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/2mOQnt-j0M-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/2mOQnt-j0M-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Riviéra Detente&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Présenté par &lt;a href=&quot;https://twitter.com/henrymichel&quot;&gt;Henry Michel&lt;/a&gt; et généralement &lt;a href=&quot;https://twitter.com/bienfrag&quot;&gt;Patrick Patrick&lt;/a&gt; (même s&#39;il y a d&#39;autre participants), bon, pas de pitch défini, ils choisissent un sujet au hasard et font des sortes de sketch dessus. Sauf qu&#39;ils sont fin bourrés du coup c&#39;est toi avec tes potes en fin de soirée. C&#39;est assez drôle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Le rire d&#39;Henry, la &lt;a href=&quot;https://open.spotify.com/user/henrymichel/playlist/5sOJ8OslI9Nn4A2umjKZiw&quot;&gt;playlist Spotify&lt;/a&gt; de l&#39;émission.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/riviera-detente/id1062842476&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;studio-404&quot;&gt;Studio 404&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/wskTtGPlCo-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/wskTtGPlCo-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/wskTtGPlCo-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Studio 404&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; Présenté par &lt;a href=&quot;https://twitter.com/LamHua/&quot;&gt;Lâm Hua&lt;/a&gt; accompagné de &lt;a href=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/twitter.com/dazjam&quot;&gt;Daz&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/misspress?lang=fr&quot;&gt;Misspress&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/fibretigre&quot;&gt;FibreTigre&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/sylvainpaley&quot;&gt;Sylvain Paley&lt;/a&gt;. Un sujet du monde numérique par chroniqueur (qui ont parfois un rapport, parfois non), ensuite il y a débat entre eux. Des personnalités très différentes qui n&#39;hésitent pas à monter au clash, des sujets très actuels mais jamais pompeux, bref, très intéressant.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; La voix de Lâm bon ben voilà c&#39;est dit, les trolls de Daz, quand Fibre part très loin.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/studio404/id574827178&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;super-cine-battle&quot;&gt;Super Ciné Battle&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/GnUQjOqrVl-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/GnUQjOqrVl-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/GnUQjOqrVl-560.jpeg&quot; width=&quot;560&quot; height=&quot;336&quot; alt=&quot;Logo du podcast Super Ciné Battle&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/Kamuirobotics&quot;&gt;Kamuirobotics&lt;/a&gt; et &lt;a href=&quot;https://twitter.com/GKPlugInBaby&quot;&gt;GKPlugInBaby&lt;/a&gt; font un classement de films (soumis par les auditeurs) par décennies. L&#39;occasion de livrer des anecdotes sur le film et leurs impressions. Même quand ce sont des films que je ne connais pas, j&#39;aime bien les écouter quand même.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Regarder un film grâce à eux, leur culture cinématographique.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/super-cine-battle/id1113826981&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;tire-bouchon&quot;&gt;Tire Bouchon&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kqlTW9IwWT-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kqlTW9IwWT-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kqlTW9IwWT-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Tire Bouchon&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &amp;quot;Nous parlons des vins des côtes du Rhône et partons à la rencontre des vignerons pour connaitre le travail de la vigne et du vin.&amp;quot; — &lt;a href=&quot;https://twitter.com/tirebouchon_pod&quot;&gt;Leur bio Twitter&lt;/a&gt;. J&#39;ai pas mieux comme présentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Ça parle de pif et le pif je commence à bien aimer grâce à eux.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/tire-bouchon/id1331421582&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vertical-urban-rap-et-street-culture&quot;&gt;Vertical Urban : rap et street culture&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZIrEQ_b9tg-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZIrEQ_b9tg-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/ZIrEQ_b9tg-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast Vertical Urban&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/Mrik&quot;&gt;Mrik&lt;/a&gt; nous présente en moins de 5 minutes les différentes actus du rap, tant FR que US.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Clair, net, concis, intéressant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/vertical-urban-rap-et-street-culture/id1437417844&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;yesss&quot;&gt;YESSS&lt;/h2&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kiKfHzygiP-560.avif 560w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kiKfHzygiP-560.webp 560w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-02-19-mes-podcasts/kiKfHzygiP-560.jpeg&quot; width=&quot;560&quot; height=&quot;560&quot; alt=&quot;Logo du podcast YESSS&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;strong&gt;Le pitch&lt;/strong&gt; &amp;quot;YESSS est un podcast féministe et résolument positif : on célèbre les victoires de femmes contre le sexisme, les warriors du quotidien.&amp;quot; — &lt;a href=&quot;http://yessspodcast.fr/&quot;&gt;Pas mieux&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mes kinks&lt;/strong&gt; Je me sens parfois très con à entendre tout ça.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/fr/podcast/yesss/id1438764662&quot;&gt;Lien iTunes&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>🇳🇴</title>
+    <link href="https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/" />
+    <updated>2017-01-13T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/</id>
+    <content type="html">&lt;p&gt;Une semaine au-dessus du cercle arctique avec J.-chaton ❤️. Il faisait -5 °C dans la &lt;a href=&quot;https://www.google.fr/maps/place/Troms%C3%B8,+Norv%C3%A8ge/&quot;&gt;ville de Tromsø&lt;/a&gt; puis entre -15 °C et -20 °C dans les expéditions. J&#39;ai pris deux ou trois photos, les voici, jointes avec quelques brèves explications.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Tout d&#39;abord, je précise que j&#39;ai pris ces photos avec, selon l&#39;humeur, mon iPhone 7 Plus, mon Fujifilm X100T (qui embarque un 23 mm) ainsi qu&#39;un &lt;a href=&quot;https://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-pro2&quot;&gt;Fujifilm X-Pro2&lt;/a&gt; accompagné d&#39;un &lt;a href=&quot;https://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/objectifs-fujinon-a-monture-x/model/fujinon-xf50-140mmf28-r-lm-ois-wr&quot;&gt;FUJINON XF50-140mmF2.8 R LM OIS WR&lt;/a&gt;. Ce dernier m&#39;a été très aimablement prêté par &lt;a href=&quot;https://www.fujifilm.eu/fr/&quot;&gt;Fujifilm France&lt;/a&gt;. Merci à eux.
+Ensuite, les photos sont généralement sous-exposées car Tromsø est située au-dessus du cercle arctique. Il fait donc jour d&#39;environ 10 h à 14h mais le soleil ne dépasse jamais l&#39;horizon.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;https://68.media.tumblr.com/cea0123b8bd2864e0e903874df309bb6/tumblr_ojs4xjiAaa1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/d0hdgkBnq--1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/d0hdgkBnq--1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/d0hdgkBnq--1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Nous sommes arrivés le jour de la Saint-Sylvestre, dans l&#39;après-midi. Nous avons donc pu assister le soir-même, sur le port, aux feux d&#39;artifice de la ville. J&#39;ai pu prendre cette photo à main levée avec le Fujifilm X-Pro2.
+La photo est un peu dégueulasse car nous étions au milieu d&#39;une très belle chute de neige avec du brouillard. J&#39;ai envie d&#39;te dire, ça pose l&#39;ambiance du séjour.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/1cd4b041b928bc6f97fc61ef8b0e6a90/tumblr_ojqpdxwxw01qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LCM5169Z7r-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LCM5169Z7r-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LCM5169Z7r-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;La ville est divisée en deux parties. La principale, là où cette photo a été prise, plus touristique, avec les hôtels, l&#39;office du tourisme, les départs pour les expéditions, etc. En face, peut-être plus résidentiel, avec la très célèbre &lt;em&gt;Ishavskatedralen&lt;/em&gt;.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/b10ccc636752704d777acfc9a9343650/tumblr_ojqpe94NYT1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/26ied6UDfB-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/26ied6UDfB-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/26ied6UDfB-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Les deux parties sont reliées par un grand pont traversable à pied. Au milieu, une jolie vue.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/2789ec740246cc135b4dbadbd7b270fe/tumblr_ojqr06EmT11qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/tIjCg6DlXK-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/tIjCg6DlXK-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/tIjCg6DlXK-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Voici la fameuse Ishavskatedralen (à traduire par &amp;quot;The Arctic Cathedral&amp;quot; ou la &amp;quot;Cathédrale Arctique&amp;quot; comme on dit par chez nous) avec de très beaux vitraux.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/259977cd6785a4bcf6974cf44454a700/tumblr_ojr25xngBu1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LSaBytBPZI-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LSaBytBPZI-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/LSaBytBPZI-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Ce qu&#39;il y a de bien là-haut, c&#39;est que du fait qu&#39;on soit au-dessus du cercle arctique (troisième fois que je l&#39;écris), le soleil ne dépasse jamais l&#39;horizon. Nous passons donc des journées (de quatre heures) avec un soleil très matinal et des couleurs roses et bleues.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/d7b9f2f465595c38fe36f5f78f7284da/tumblr_ojr26cCvlv1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/fOHv2OMNqi-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/fOHv2OMNqi-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/fOHv2OMNqi-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Pour la petite histoire, nous avions réservé une excursion sur un Zodiac pour aller voir les baleines. Hors, il faisait bien trop froid (-25 °C ce jour-là dans le coin où nous devions aller). Nous nous sommes donc retrouvés sur un bien plus gros bateau sans trop d&#39;âme mais nous étions entourés de baleines à bosse et d&#39;orques. Donc c&#39;était quand même chouette. Même si nous avons peut-être regretté le côté intimiste de la chose.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/dfd78b124ebe1883e1c228899be06c47/tumblr_ojr252DNmN1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/qQ6rwa92EM-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/qQ6rwa92EM-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/qQ6rwa92EM-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Mais ce n&#39;est pas grave car la veille, en visite organisée de fjords, nous en avons croisé des baleines à bosse. Nous étions sur le rivage, pas un bruit à part celui des belles louloutes qui remontaient à la surface pour respirer et pour se nourrir. C&#39;était incroyable, nous n&#39;étions rien à côté de ce banc de gros machins de quinze mètres de long. C&#39;était incroyable. Je suis très content d&#39;avoir pris cette photo.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/87175dc2690cc72bbc6462e574148491/tumblr_ojs4als3RM1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/HGI1RjbmIu-800.avif 800w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/HGI1RjbmIu-800.webp 800w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/HGI1RjbmIu-800.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;800&quot; height=&quot;1067&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Nous avons également fait du chien de traineau. Alors, comme on peut le constater, c&#39;est un traineau, tiré non seulement par des chiens mais également poussé par le musher, c&#39;est à dire moi, qui fais également partie de la team. Dès que les chiens ne pouvaient plus tirer, ils se retournaient et me regardaient pour me demander ce que je pouvais bien foutre à ne pas tirer. Hé les gars, pépère il est fatigué il a vu des baleines hier, on va p&#39;têt&#39; se détendre. Enfin bref, on ne s&#39;est pas bûché une fois enfin sauf deux fois &lt;strike&gt;au châlet&lt;/strike&gt; mais je n&#39;ai pas lâché le traineau des mains. C&#39;est juste ma pauvre J. ❤️ qui a un peu bouffé de la neige vu que le traineau s&#39;est renversé mais ça n&#39;a duré que quelques secondes avec beaucoup de rires alors bon, ce n&#39;est pas trop grave.
+Pas trop grave comparé au mec devant qui lui a fait 20m sur les genoux, puis a lâché le traineau, puis le traineau s&#39;est renversé envoyant sa femme dans le fossé et les chiens qui se sont presque enfuis.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/8eaf3f7118310329cb43ac1a94826f3d/tumblr_ojs4q8EKra1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/hN8BvoLX4O-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/hN8BvoLX4O-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/hN8BvoLX4O-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Et ça donc c&#39;est une aurore boréale. Pas grand-chose à ajouter. C&#39;était tout à fait incroyablement beau. Je pense ne pas avoir raté cette photo, j&#39;en suis très content.&lt;/p&gt;
+&lt;div class=&quot;photo&quot;&gt;
+    &lt;picture&gt;
+        &lt;source media=&quot;(max-width: 500px)&quot; type=&quot;image/jpg&quot; srcset=&quot;http://68.media.tumblr.com/924434af869fedcedfbf74ef326dfa16/tumblr_ojs4x4jwLC1qih5yzo1_500.jpg&quot;&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/-vr8w2vQ8e-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/-vr8w2vQ8e-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/blog/2017-01-13-voyage-norvege/-vr8w2vQ8e-1200.jpeg&quot; alt=&quot;Photo de Tromsø&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
+&lt;p&gt;Les autres photos (dont d&#39;aurores boréales) se trouvent sur mon &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/&quot;&gt;photoblog&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>TSR Crew</title>
+    <link href="https://blog.cyrilou.me/2016/05/10/tsr-crew/" />
+    <updated>2016-05-10T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/2016/05/10/tsr-crew/</id>
+    <content type="html">&lt;p&gt;J&#39;arrive pas à trouver un texte d&#39;introduction. Du coup, pas d&#39;introduction. Eh oui.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Je suis très fan du TSR Crew. Un jour j&#39;écrirai un article sur eux, sur &lt;a href=&quot;https://www.youtube.com/watch?v=y8Dmm5g_8CQ&quot;&gt;Georgio&lt;/a&gt; également, qui me l&#39;a fait découvrir, sur le rap en général, sur ce que j&#39;en pense mais… C&#39;est long.&lt;/p&gt;
+&lt;p&gt;Bref, pour revenir au TSR Crew, le fan que je suis a eu l&#39;occasion d&#39;aller au &lt;a href=&quot;http://flow.lille.fr/&quot;&gt;Flow&lt;/a&gt; à Lille (merci M., amour éternel) pour les voir et les prendre en photos !&lt;/p&gt;
+&lt;p&gt;Notons qu&#39;en première partie il y avait &lt;a href=&quot;https://www.youtube.com/watch?v=p10ZrrYUkEU&quot;&gt;Original Tonio et Lax&lt;/a&gt; que je ne connaissais pas du tout. Ils ont une sacrée énergie sur scène que j&#39;ai essayé de capter en photo.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155228965&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/KBh3XILwp4-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/KBh3XILwp4-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/KBh3XILwp4-1200.jpeg&quot; alt=&quot;Original Tonio et Lax au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;
+&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155232460&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/Ol6RAXzIfp-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/Ol6RAXzIfp-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/Ol6RAXzIfp-1200.jpeg&quot; alt=&quot;Original Tonio et Lax au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;
+&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155240060&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/JuJ9c24ocu-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/JuJ9c24ocu-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/JuJ9c24ocu-1200.jpeg&quot; alt=&quot;Original Tonio et Lax au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et maintenant, le &lt;a href=&quot;https://www.youtube.com/watch?v=Sp9-pj5ybwM&amp;amp;feature=youtu.be&amp;amp;list=PL37WcIl4EJGGVKbmqOMlTJspulKFPDPF6&quot;&gt;TSR au Complet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155257890&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/9QezyUh2hp-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/9QezyUh2hp-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/9QezyUh2hp-1200.jpeg&quot; alt=&quot;TSR Crew au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;
+&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155261305&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/_6TFUPDdcX-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/_6TFUPDdcX-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/_6TFUPDdcX-1200.jpeg&quot; alt=&quot;TSR Crew au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;
+&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155265375&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/6q7tnnMlxp-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/6q7tnnMlxp-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/6q7tnnMlxp-1200.jpeg&quot; alt=&quot;TSR Crew au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;
+&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155267625&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/EcQMEI2HDJ-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/EcQMEI2HDJ-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/EcQMEI2HDJ-1200.jpeg&quot; alt=&quot;TSR Crew au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour finir, la petite photo de famille.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://lesphotosdecyril.tumblr.com/post/144155270695&quot;&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/YUH91ee2wQ-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/YUH91ee2wQ-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cyrilou.me/2016/05/10/tsr-crew/YUH91ee2wQ-1200.jpeg&quot; alt=&quot;TSR Crew au Flow&quot; width=&quot;1200&quot; height=&quot;800&quot;&gt;&lt;/picture&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ces photos sont un peu loins parce qu&#39;elles sont prises au merveilleux Fujifilm X100T. Aucune retouche à part un poil de contraste, 6400 ISO, 23mm, f/2.8 environ, entre 1/125 et 1/250.&lt;/p&gt;
+&lt;p&gt;Merveilleux, vous dis-je.&lt;/p&gt;
+&lt;p&gt;Le peu de photos non affichées ici sont en plus grand &lt;a href=&quot;http://lesphotosdecyril.tumblr.com/&quot;&gt;là-bas&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Pas peu fier de mon lazy-load</title>
+    <link href="https://blog.cyrilou.me/blog/2016-04-25-pas-peu-fier-de-mon-lazy-load/" />
+    <updated>2016-04-25T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2016-04-25-pas-peu-fier-de-mon-lazy-load/</id>
+    <content type="html">&lt;p&gt;Histoire de ne pas tuer le rythme de croisière de publication d&#39;articles de ce blog (pour cette année, on est à un tous les quatre mois, enfin sans compter l&#39;année dernière sinon ça nous fait un tous les… 11 mois 😱), je vais vous parler d&#39;un truc que j&#39;ai fait pour &lt;a href=&quot;https://5euros.com&quot;&gt;5euros&lt;/a&gt; dont je suis assez content.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;On avait un énorme problème sur 5euros, c&#39;était le temps de chargement des pages.
+En effet, comme vous pouvez le constater sur la page d&#39;accueil, il y a énormément d&#39;images. Et encore plus sur une &lt;a href=&quot;https://5euros.com/categorie/graphisme&quot;&gt;page de catégorie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sur la homepage, nous avions 68 requêtes HTTP, 1.4 MB à télécharger, presque 5 secondes pour télécharger tout ça. Bref, pas foufou.
+Avec autant d&#39;images à charger, nous avions un effet de glitch avec des carrés blanc en lieu et place des images (le temps qu&#39;elles n&#39;arrivent) qui était visuellement désagréable.&lt;/p&gt;
+&lt;p&gt;L&#39;effet peut être reproduit sur &lt;a href=&quot;http://www.http2demo.io/&quot;&gt;http2demo&lt;/a&gt; où l&#39;on voit clairement les images qui arrivent les unes après les autres. Bon, nous étions déjà en HTTP/2, c&#39;est évidemment pas le sujet ici. Je mets cet exemple uniquement pour l&#39;effet visuel.&lt;/p&gt;
+&lt;p&gt;Avec l&#39;arrivée du lazy loading, nous avons allégé tout ça.&lt;/p&gt;
+&lt;p&gt;Toujours 68 requêtes HTTP, 1.3 MB à télécharger et c&#39;est là que ça devient intéressant : 1.65 seconde pour télécharger toute la page. Nous avons donc gagné un peu plus de 4 secondes pour que le DOM soit complètement chargé. Et ça, ça change tout. Tant pour l&#39;utilisateur que pour les robots d&#39;indéxation que pour nous.&lt;/p&gt;
+&lt;p&gt;Voici ce qu&#39;on a fait conjointement entre le &lt;a href=&quot;https://twitter.com/yOye_&quot;&gt;dev back&lt;/a&gt; et le &lt;a href=&quot;https://twitter.com/joffrey&quot;&gt;DA&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;fonctionnement&quot;&gt;Fonctionnement&lt;/h2&gt;
+&lt;p&gt;Techniquement, voilà comment ça se passe :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quand un vendeur upload des images pour illustrer son service, nous prenons la première (qui va s&#39;afficher dans la miniature sur la home et la page de catégorie) et la dégradons (on prend les 10 premiers pixels en hauteur et largeur et on l&#39;étend à 270x170 pixels)&lt;/li&gt;
+&lt;li&gt;On l&#39;encode en base64 (la chaîne prend moins de place qu&#39;un fichier JPG)&lt;/li&gt;
+&lt;li&gt;L&#39;image dégradée est affichée telle quelle avec un blur de 15 pixels généré en CSS3.&lt;/li&gt;
+&lt;li&gt;L&#39;URL de l&#39;image non dégradée, on la stock dans un &lt;code&gt;data-attribute&lt;/code&gt; sur le parent des images&lt;/li&gt;
+&lt;li&gt;On lance le téléchargement de l&#39;image finale en JavaScript. Elle a un style qui fait qu&#39;elle soit transparente pour avoir un effet visuel d&#39;apparition&lt;/li&gt;
+&lt;li&gt;Une fois que l&#39;image finale est chargée (&lt;code&gt;onload&lt;/code&gt;), on lui enlève sa transparence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;j-aime-pas-le-javascript&quot;&gt;J&#39;aime pas le JavaScript&lt;/h2&gt;
+&lt;p&gt;Et pourtant j&#39;en ai fait. ᕕ( ᐛ )ᕗ&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/DaPo/6019eb4188bb8c90bb1367d805479f0c.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Niveau CSS, au final, pas grand chose :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le wrapper des deux images, on le position relative&lt;/li&gt;
+&lt;li&gt;L&#39;image en base64 dégradée, pour éviter de trop afficher le fait qu&#39;elle soit dégradée, on la blur à 15px.&lt;/li&gt;
+&lt;li&gt;L&#39;image finale, position absolute, top 0, left 0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deux choses.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;L&#39;image dégradée, on lui rajoute un &lt;code&gt;transform: rotate(0);&lt;/code&gt; (merci &lt;a href=&quot;http://twitter.com/dtrucs&quot;&gt;@dtrucs&lt;/a&gt;). Sinon, sur Safari, malgré un &lt;code&gt;overflow: hidden&lt;/code&gt; sur le parent, le flou va prendre les pixels à côté de l&#39;image et les flouter également.&lt;/li&gt;
+&lt;li&gt;L&#39;histoire de la position relative sur le parent et de l&#39;absolue sur l&#39;image finale, c&#39;est pour qu&#39;elle recouvre l&#39;image dégradée. Le wrapper ayant la taille de l&#39;image dégradée (qui est la même que l&#39;image finale), pas besoin de lui spécifier de taille. #astuce&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;s&gt;Je me rends compte en relisant mon code qu&#39;on a pas forcément besoin d&#39;autant de class et que je pourrais tout faire avec le &lt;code&gt;data-attribute&lt;/code&gt; du parent… Nous verrons ça à un autre moment.&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;Edit: ayé.&lt;/p&gt;
+&lt;p&gt;That&#39;s all folks!&lt;/p&gt;
+&lt;p&gt;Merci beaucoup &lt;a href=&quot;https://twitter.com/hugogiraudel&quot;&gt;@hugogiraudel&lt;/a&gt; pour son aide et ses &lt;a href=&quot;https://gist.github.com/HugoGiraudel/0b35ee20fea5230b22a573150341f91f&quot;&gt;petites améliorations&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Hésitez pas à me dire en commentaire du &lt;a href=&quot;https://gist.github.com/DaPo/6019eb4188bb8c90bb1367d805479f0c&quot;&gt;Gist&lt;/a&gt; ou ici à quel point ce code est pourrav&#39;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Intégration de Diwi</title>
+    <link href="https://blog.cyrilou.me/blog/2015-06-03-lintegration-de-diwi/" />
+    <updated>2015-06-03T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2015-06-03-lintegration-de-diwi/</id>
+    <content type="html">&lt;p&gt;Histoire de ne pas tuer le rythme de croisière de publication d&#39;articles de ce blog (pour cette année, on est à un tous les deux mois), je vais vous parler du côté technique de ces neuf mois passés.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;En effet, lundi, nous avons mis en production &lt;a href=&quot;https://diwi.com&quot;&gt;Diwi&lt;/a&gt;, site qui permet de &lt;strong&gt;donner des rendez-vous&lt;/strong&gt; à des inconnus via un sujet original. Le concept est sympa, vous pouvez même envoyer de &lt;a href=&quot;https://diwi.com/invitation&quot;&gt;jolies choses&lt;/a&gt; à une de vos connaissance célibataire pour lui faire découvrir le site.&lt;/p&gt;
+&lt;p&gt;Le petit côté pub étant passé, voici l&#39;histoire de ce beau site, avant que je n&#39;arrive jusqu&#39;au moment où j&#39;écris ces lignes.&lt;/p&gt;
+&lt;h2 id=&quot;au-commencement-l-integration-en-dure&quot;&gt;Au commencement, l&#39;intégration en dure&lt;/h2&gt;
+&lt;p&gt;Diwi n&#39;est pas si nouveau que ça. En effet, il existait déjà une ancienne version du site qui n&#39;avait pas particulièrement de design vu qu&#39;il n&#39;y avait ni webdesigner ni intégrateur.&lt;/p&gt;
+&lt;p&gt;Est arrivé, bien, bien bien après ce premier lancement &lt;a href=&quot;https://twitter.com/joffrey&quot;&gt;Joffrey&lt;/a&gt;, qui a eu pour mission de faire un tout nouveau design et, dans la foulée, l&#39;intégration d&#39;une nouvelle version.&lt;/p&gt;
+&lt;p&gt;Cette nouvelle version a été mise en pause (d&#39;autre projets plus importants devaient sortir) jusqu&#39;à mon arrivée il y a bientôt neuf mois. En effet, &lt;a href=&quot;http://ouichelorraine.com&quot;&gt;Ouiche&lt;/a&gt; cherchait un intégrateur (moi, du coup) pour relancer le projet.
+Joffrey a donc terminé le design et pendant ce temps-là, j&#39;ai retapé la quasi totalité de l&#39;intégration déjà faite par Joffrey pour repartir sur une base propre.&lt;/p&gt;
+&lt;h2 id=&quot;la-reintegration&quot;&gt;La réintégration&lt;/h2&gt;
+&lt;p&gt;En effet, nous étions sur un Bootstrap v2, du nested à tout va, du sélecteur avec beaucoup d&#39;IDs.&lt;/p&gt;
+&lt;p&gt;J&#39;ai, dans un premier temps, mis à jour Bootstrap pour sa version 3 puis optimisé autant que possible l&#39;&lt;a href=&quot;https://gist.github.com/DaPo/930c9172d11323ac8fd7&quot;&gt;import de ses modules&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dans un deuxième temps, j&#39;ai réintégré chacune des pages en modules indépendants (&lt;a href=&quot;http://www.vanseodesign.com/css/dry-principles/&quot;&gt;DRY&lt;/a&gt;, &lt;a href=&quot;https://smacss.com/&quot;&gt;SMACSS&lt;/a&gt;, &lt;a href=&quot;http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/&quot;&gt;OOCSS&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Ensuite, j&#39;ai instauré les SVGs (passées dans &lt;a href=&quot;https://github.com/svg/svgo&quot;&gt;SVGo&lt;/a&gt; dans un premier temps puis génération d&#39;une icon-font avec &lt;a href=&quot;https://github.com/sapegin/grunt-webfont&quot;&gt;grunt-webfont&lt;/a&gt; (qui nous a causé &lt;a href=&quot;https://github.com/sapegin/grunt-webfont/issues/189&quot;&gt;bien du soucis&lt;/a&gt; à la sortie d&#39;OS X Yosemite)) à la place des icones bitmaps).&lt;/p&gt;
+&lt;p&gt;Pour finir, j&#39;ai revu l&#39;organisation des fichiers less :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;variables.less&lt;/code&gt; avec différentes variables utiles au projet ainsi que certaines qui réécrivent certaine de Bootstrap;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bootstrap.less&lt;/code&gt; dont j&#39;ai parlé plus haut;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;layout.less&lt;/code&gt; qui comprend le header et le footer;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;modules.less&lt;/code&gt; pour le CSS de plugins externes (tels que &lt;a href=&quot;https://twitter.github.io/typeahead.js/&quot;&gt;typehead.js&lt;/a&gt; ou &lt;a href=&quot;http://darklg.github.io/JavaScriptUtilities/jquery.html#jq-fake-select&quot;&gt;Fake Select&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;Plein d&#39;autre &lt;code&gt;.less&lt;/code&gt; où un fichier = un module;&lt;/li&gt;
+&lt;li&gt;Un &lt;code&gt;diwi.less&lt;/code&gt; final qui &lt;code&gt;@import&lt;/code&gt; tout ce beau monde, c&#39;est ce fichier uniquement que &lt;a href=&quot;http://gruntjs.com/&quot;&gt;grunt&lt;/a&gt; va compiler.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cette architecture n&#39;est pas optimale, j&#39;ai déjà une idée de comment je vais réorganiser ça, on voit ça un peu plus bas.&lt;/p&gt;
+&lt;h2 id=&quot;modifications-majeures&quot;&gt;Modifications majeures&lt;/h2&gt;
+&lt;p&gt;Il y a quelque temps, voyant les stats de &lt;a href=&quot;http://caniuse.com/#feat=flexbox&quot;&gt;caniuse&lt;/a&gt; j&#39;ai décidé de passer énormément de blocks sur &lt;strong&gt;Flexbox&lt;/strong&gt;. Je me suis aidé (et encore maintenant !) de ce beau tuto de &lt;a href=&quot;https://css-tricks.com/snippets/css/a-guide-to-flexbox/&quot;&gt;CSS-tricks&lt;/a&gt; et de différentes démos de &lt;a href=&quot;http://jackintheflexbox.tumblr.com/&quot;&gt;Raphaël&lt;/a&gt; pour me lancer dans l&#39;aventure.&lt;/p&gt;
+&lt;p&gt;Merci également à mon CTBro &lt;a href=&quot;https://twitter.com/Maxime&quot;&gt;Maxime&lt;/a&gt; de m&#39;avoir dit qu&#39;on aurait pas besoin de supporter IE9 &#92;o/&lt;/p&gt;
+&lt;p&gt;Vous aurez donc, par exemple, tout le header du site qui est fait avec Flexbox, les filtres de la &lt;a href=&quot;https://diwi.com&quot;&gt;page d&#39;accueil&lt;/a&gt; également le header d&#39;une &lt;a href=&quot;https://diwi.com/diwi/34&quot;&gt;page de rendez-vous&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il y a encore moins de temps, je suis passé intégralement à &lt;code&gt;rem&lt;/code&gt; qu&#39;on ne présente plus. Pour m&#39;aider, j&#39;ai lu attentivement &lt;a href=&quot;http://gregrickaby.com/using-the-golden-ratio-and-rems/&quot;&gt;cet article&lt;/a&gt; de Greg Rickaby et j&#39;utilise le plugin Sublime Text &amp;quot;&lt;a href=&quot;https://packagecontrol.io/packages/REM%20PX&quot;&gt;REM PX&lt;/a&gt;&amp;quot; pour convertir une valeur en PX en REM (hé oui).
+Du fait, non seulement j&#39;ai pu très facilement réduire très légèrement le &lt;code&gt;font-size&lt;/code&gt; du site sur mobile mais également, je me soucis de plus en plus de l&#39;accessibilité du site. Si un mal-voyant a besoin d&#39;avoir sa typo à 150%, à priori, le site ne bougera pas de trop.&lt;/p&gt;
+&lt;p&gt;Bref, il reste encore énormément de choses à faire (que ce soit côté accessibilité ou même niveau code).&lt;/p&gt;
+&lt;h2 id=&quot;la-suite&quot;&gt;La suite&lt;/h2&gt;
+&lt;p&gt;C&#39;est pas que le combo Bootstrap x Less m&#39;ait été imposé, mais je ne pouvais naturellement pas décider de le virer en arrivant.&lt;/p&gt;
+&lt;p&gt;Du coup, j&#39;ai décidé de le garder, il m&#39;a fait gagner beaucoup de temps jusqu&#39;à maintenant (principalement sur la &lt;a href=&quot;http://getbootstrap.com/css/#grid&quot;&gt;grille responsive&lt;/a&gt; et le &lt;a href=&quot;http://getbootstrap.com/components/#navbar&quot;&gt;menu mobile&lt;/a&gt;), je ne m&#39;en plains pas.&lt;/p&gt;
+&lt;p&gt;Je compte bien à terme le virer pour notamment remplacer la grille par &lt;a href=&quot;http://www.meetsally.com/&quot;&gt;une grille Flexbox&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Une fois fais, je passe tout ça sur &lt;a href=&quot;http://cssnext.io&quot;&gt;cssnext&lt;/a&gt; qui me semble bien prometteur.&lt;/p&gt;
+&lt;p&gt;Également, nous pensons virer jQuery (dans un plus long terme, par contre) pour du beau et fort Vanilla et autres technologies bien plus sympatiques et actuelles.&lt;/p&gt;
+&lt;p&gt;Pour finir, je compte (dans un plus court terme, du coup) réorganiser mes fichiers pour adopter l&#39;&lt;a href=&quot;http://dev.ghost.org/css-at-ghost/&quot;&gt;architecture&lt;/a&gt; de la plateforme de blog Ghost.&lt;/p&gt;
+&lt;h2 id=&quot;la-conclusion-qui-va-bien&quot;&gt;La conclusion qui va bien&lt;/h2&gt;
+&lt;p&gt;Beau projet qu&#39;est &lt;a href=&quot;https://diwi.com&quot;&gt;diwi&lt;/a&gt;, je pense qu&#39;on est tous fiers de ce qu&#39;il est et le seront d&#39;autant plus quand il fonctionnera bien. Plein de challenges et de problèmes nous attendent, c&#39;est motivant, c&#39;est chouette.&lt;/p&gt;
+&lt;p&gt;Vive la vie.&lt;/p&gt;
+&lt;p&gt;Si vous avez des questions n&#39;hésitez pas à me les poser, je me ferai une joie d&#39;y répondre.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>De WordPress à Jekyll</title>
+    <link href="https://blog.cyrilou.me/blog/2015-04-28-wordpress-to-jekyll/" />
+    <updated>2015-04-28T00:00:00Z</updated>
+    <id>https://blog.cyrilou.me/blog/2015-04-28-wordpress-to-jekyll/</id>
+    <content type="html">&lt;p&gt;Salut, c&#39;est Cyril. Voici un article technique (pour changer) créé à la demande de &lt;a href=&quot;https://twitter.com/LegZ/status/589863615597039616&quot;&gt;@LegZ&lt;/a&gt; concernant ma transition de WordPress à Jekyll.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;pourquoi&quot;&gt;Pourquoi ?&lt;/h2&gt;
+&lt;p&gt;On m&#39;a demandé si c&#39;était un souci d&#39;hébergement ou être un dev un peu plus hype : &lt;em&gt;pas du tout&lt;/em&gt;. Moi, globalement, le back, j&#39;m&#39;en balance pas mal.
+C&#39;est juste que WordPress, je n&#39;utilisais vraiment plus grand chose du CMS, les seuls plugins que j&#39;avais : Disqus et un plugin de cache pour palier à la lenteur de WordPress.&lt;/p&gt;
+&lt;p&gt;Du coup, pourquoi ne pas prendre une techno plus légère et rapide d&#39;exécution ?&lt;/p&gt;
+&lt;h2 id=&quot;comment-l-installer&quot;&gt;Comment l&#39;installer ?&lt;/h2&gt;
+&lt;p&gt;Alors, déjà, il faut savoir que la migration WordPress à Jekyll a été pliée en moins de 30 minutes grâce à &lt;a href=&quot;http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/&quot;&gt;ce lien&lt;/a&gt;. Tout est automatique grâce à quelques plugins, c&#39;est du clic-clic-upload-clic-wala-fini.&lt;/p&gt;
+&lt;p&gt;Le plus long a été de finalement réintégrer le thème et de se faire au layout de Jekyll. Dieu merci, étant peu performant en design, mon blog n&#39;a pas été trop long à réintégrer.&lt;/p&gt;
+&lt;p&gt;J&#39;en ai profité pour passer tout ça sous Grunt (je n&#39;ai jamais pris le temps de le faire sous WordPress) et retaper un peu le CSS, que ça ressemble un peu plus à quelque chose.&lt;/p&gt;
+&lt;p&gt;Du fait que mon blog soit hébergé sur GitHub, le code source est accessible sur &lt;a href=&quot;https://github.com/DaPo/blog.cyrilou.me&quot;&gt;Mon compte GitHub&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Tout ceci se rapproche évidemment plus que jamais du workflow qu&#39;on a à &lt;a href=&quot;http://www.ouichelorraine.com/&quot;&gt;le travail&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;le-plus-relou&quot;&gt;Le plus relou&lt;/h2&gt;
+&lt;p&gt;Le plus relou dans l&#39;histoire, cependant, a été de mettre les bonnes zones DNS là où il fallait, mais rien d&#39;insurmontable quand on a un CTBro qui fait ça en &amp;quot;j&#39;ai 5 minutes avant de partir à mon rendez-vous on voit ça tout de suite&amp;quot;, magnifique.&lt;/p&gt;
+&lt;p&gt;Bref, voilà, parfait.&lt;/p&gt;
+&lt;h2 id=&quot;a-venir&quot;&gt;À venir&lt;/h2&gt;
+&lt;p&gt;Finir d&#39;intégrer le thème (remettre les photos en header d&#39;image), trouver un colorateur syntaxique, remettre les &lt;a href=&quot;http://ogp.me/&quot;&gt;OpenGraph&lt;/a&gt;,  pourquoi pas passer sur &lt;a href=&quot;https://cssnext.github.io/&quot;&gt;cssnext&lt;/a&gt; (et ensuite l&#39;imposer aux collègues, hhhehe).&lt;/p&gt;
+&lt;p&gt;Cet article est également le premier que je rédige entièrement en markdown ! &#92;o&lt;br&gt;
+... et corrigé via une pull request ! /o/ (merci &lt;a href=&quot;https://github.com/DaPo/blog.cyrilou.me/pull/2&quot;&gt;@LegZ&lt;/a&gt; !)&lt;/p&gt;
+</content>
+  </entry>
 </feed>
