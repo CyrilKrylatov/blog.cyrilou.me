@@ -62,8 +62,18 @@ header {
  font-size: 0;
 }
 
+header a {
+  transition: opacity 200ms ease;
+}
+
 header a:hover {
  opacity: .8;
+}
+
+header img {
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
 }
 
 /* ----------------------------------------------------------
