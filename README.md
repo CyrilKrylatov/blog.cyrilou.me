@@ -1,3 +1,3 @@
-# blog.cyrilou.me
+# https://blog.cyrilou.me
 
-Jekyll x Grunt
+Built with [11ty](https://www.11ty.dev/).
