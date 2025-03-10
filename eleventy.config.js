@@ -68,12 +68,7 @@ export default async function(eleventyConfig) {
 		// File extensions to process in _site folder
 		extensions: "html",
 
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
-
-		// widths: ["auto"],
-
-		defaultAttributes: {
+    defaultAttributes: {
 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
 			loading: "lazy",
 			decoding: "async",
