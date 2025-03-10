@@ -70,6 +70,12 @@ time {
  font-style: italic;
 }
 
+main picture img {
+  max-height: calc(100vh - 2rem);
+  margin-bottom: 1rem;
+  width: auto;
+}
+
 /* ----------------------------------------------------------
    Header
    ------------------------------------------------------- */
@@ -91,6 +97,15 @@ header img {
   width: 168px;
   height: 168px;
   border-radius: 50%;
+}
+
+/* ----------------------------------------------------------
+   Postlist
+   ------------------------------------------------------- */
+
+.postlist {
+  list-style: none;
+  padding-left: 0;
 }
 
 /* ----------------------------------------------------------
@@ -130,7 +145,12 @@ footer {
 		<main>
 			
 
-<ol reversed="" class="postlist">
+<ul reversed="" class="postlist">
+
+	<li class="postlist-item">
+		<a href="/blog/2025-03-10-italie/" class="postlist-link">C&#39;est un endroit qui ressemble à la Louisiane 🇮🇹</a>
+		<time class="postlist-date" datetime="2025-03-10">March 2025</time>
+	</li>
 
 	<li class="postlist-item">
 		<a href="/blog/2024-10-01-10-ans-a-soccuper-du-front-du-meme-site-comment-ca-va/" class="postlist-link">Après 10 ans à s’occuper du front du même site, comment ça va ?</a>
@@ -417,7 +437,7 @@ footer {
 		<time class="postlist-date" datetime="2011-02-09">February 2011</time>
 	</li>
 
-</ol>
+</ul>
 
 
 
