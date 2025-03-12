@@ -51,6 +51,7 @@ time {
  margin-bottom: .8rem;
  font-size: .95rem;
  font-style: italic;
+ white-space: pre;
 }
 
 main picture img {
@@ -89,6 +90,19 @@ header img {
 .postlist {
   list-style: none;
   padding-left: 0;
+}
+
+.year-separator {
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.postlist-link {
+  text-decoration: none;
+}
+
+.postlist-link:hover {
+  text-decoration: underline;
 }
 
 /* ----------------------------------------------------------
