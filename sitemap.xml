@@ -282,6 +282,11 @@
 	</url>
 	
 	<url>
+		<loc>https://blog.cyrilou.me/blog/2022-05-12-islande/</loc>
+		<lastmod>2022-05-12</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://blog.cyrilou.me/blog/2024-10-01-10-ans-a-soccuper-du-front-du-meme-site-comment-ca-va/</loc>
 		<lastmod>2024-10-01</lastmod>
 	</url>
@@ -293,11 +298,11 @@
 	
 	<url>
 		<loc>https://blog.cyrilou.me/</loc>
-		<lastmod>2025-11-19</lastmod>
+		<lastmod>2025-11-21</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://blog.cyrilou.me/feed/feed.xml</loc>
-		<lastmod>2025-11-19</lastmod>
+		<lastmod>2025-11-21</lastmod>
 	</url>
 </urlset>

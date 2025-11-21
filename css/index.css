@@ -39,7 +39,7 @@ main {
  max-width: 1280px;
 }
 
-main > *:not(picture) {
+main > *:not(picture, .grid-photos) {
  display: block;
  margin-right: auto;
  margin-left: auto;
@@ -129,4 +129,15 @@ footer {
  max-width: 560px;
  font-size: .8rem;
  font-style: italic;
+}
+
+/* ----------------------------------------------------------
+   Grid photos
+   ------------------------------------------------------- */
+
+@media (min-width: 800px) {
+  .grid-photos {
+    display: flex;
+    gap: 15px;
+  }
 }
