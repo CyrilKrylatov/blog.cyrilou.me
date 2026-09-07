@@ -54,13 +54,16 @@ img {
 main {
  margin: 0 auto;
  max-width: 1280px;
+ display: flex;
+ flex-direction: column;
 }
 
-main > *:not(picture, .grid-photos) {
+main > :not(picture, .grid-photos) {
  display: block;
  margin-right: auto;
  margin-left: auto;
  max-width: 560px;
+ width: 100%;
 }
 
 time {
@@ -154,6 +157,7 @@ footer {
 
 @media (min-width: 800px) {
   .grid-photos {
+    align-self: center;
     display: flex;
     gap: 15px;
   }

@@ -54,13 +54,16 @@ img {
 main {
  margin: 0 auto;
  max-width: 1280px;
+ display: flex;
+ flex-direction: column;
 }
 
-main > *:not(picture, .grid-photos) {
+main > :not(picture, .grid-photos) {
  display: block;
  margin-right: auto;
  margin-left: auto;
  max-width: 560px;
+ width: 100%;
 }
 
 time {
@@ -154,6 +157,7 @@ footer {
 
 @media (min-width: 800px) {
   .grid-photos {
+    align-self: center;
     display: flex;
     gap: 15px;
   }
@@ -233,7 +237,7 @@ footer {
     <picture><source type="image/webp" srcset="/blog/2026-05-15-prague/V_Fkm12giM-3024.webp 3024w"><img loading="lazy" decoding="async" alt="" src="/blog/2026-05-15-prague/V_Fkm12giM-3024.jpeg" width="3024" height="4032"></picture>
 </div>
 
-<ul class="links-nextprev"><li class="links-nextprev-prev">← <a href="/blog/2025-03-10-italie/">C&#39;est un endroit qui ressemble à la Louisiane 🇮🇹</a></li>
+<ul class="links-nextprev"><li class="links-nextprev-prev">← <a href="/blog/2025-03-10-italie/">C&#39;est un endroit qui ressemble à la Louisiane 🇮🇹</a></li><li class="links-nextprev-next"><a href="/blog/2026-09-06-oleron/">Île d‘Oléron ! 🇫🇷</a> →</li>
 </ul>
 
 		</main>

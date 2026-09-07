@@ -54,13 +54,16 @@ img {
 main {
  margin: 0 auto;
  max-width: 1280px;
+ display: flex;
+ flex-direction: column;
 }
 
-main > *:not(picture, .grid-photos) {
+main > :not(picture, .grid-photos) {
  display: block;
  margin-right: auto;
  margin-left: auto;
  max-width: 560px;
+ width: 100%;
 }
 
 time {
@@ -154,6 +157,7 @@ footer {
 
 @media (min-width: 800px) {
   .grid-photos {
+    align-self: center;
     display: flex;
     gap: 15px;
   }
@@ -178,6 +182,12 @@ footer {
     
         
         <li class="year-separator">2026</li>
+    
+	<li class="postlist-item">
+		<a href="/blog/2026-09-06-oleron/" class="postlist-link">Île d‘Oléron ! 🇫🇷</a>
+	</li>
+
+    
     
 	<li class="postlist-item">
 		<a href="/blog/2026-05-15-prague/" class="postlist-link">Prague ! 🇨🇿</a>

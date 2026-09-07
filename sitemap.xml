@@ -302,12 +302,17 @@
 	</url>
 	
 	<url>
+		<loc>https://blog.cyrilou.me/blog/2026-09-06-oleron/</loc>
+		<lastmod>2026-09-06</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://blog.cyrilou.me/</loc>
-		<lastmod>2026-07-23</lastmod>
+		<lastmod>2026-09-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://blog.cyrilou.me/feed/feed.xml</loc>
-		<lastmod>2026-07-23</lastmod>
+		<lastmod>2026-09-07</lastmod>
 	</url>
 </urlset>
