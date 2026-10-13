@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Gérer ses sauvegardes macOS / iOS et photos</title>
+		<meta name="description" content="Mon p&#39;tit blog.">
+        <link rel="icon" type="image/png" href="/favicon-48x48.png" sizes="48x48">
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <meta name="apple-mobile-web-app-title" content="^ son blog">
+        <link rel="manifest" href="/site.webmanifest">
+		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="Cyrilou, en toute intimité">
+
+		<meta name="generator" content="Eleventy v3.1.5">
+		
+		<style>@charset "utf-8";
+
+/* ----------------------------------------------------------
+   Common
+   ------------------------------------------------------- */
+
+html {
+ box-sizing: border-box;
+ height: 100%;
+}
+
+*,
+*:after,
+*:before {
+ box-sizing: inherit;
+}
+
+body {
+ margin: 0;
+ padding: 3rem 2rem;
+ min-height: 100%;
+ border-top: 3px #1d1d1d solid;
+ font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ font-size: 1.2rem;
+ line-height: 1.5;
+ color: #1b1b1b;
+ background: #fff;
+}
+
+img {
+ display: block;
+ height: auto;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+main {
+ margin: 0 auto;
+ max-width: 1280px;
+ display: flex;
+ flex-direction: column;
+}
+
+main > :not(picture, .grid-photos) {
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ max-width: 560px;
+ width: 100%;
+}
+
+time {
+ margin-top: .8rem;
+ margin-bottom: .8rem;
+ font-size: .95rem;
+ font-style: italic;
+ white-space: pre;
+}
+
+main picture img {
+  max-height: calc(100vh - 2rem);
+  margin-bottom: 1rem;
+  width: auto;
+}
+
+/* ----------------------------------------------------------
+   Header
+   ------------------------------------------------------- */
+
+header {
+ margin: 0 0 40px;
+ font-size: 0;
+}
+
+header a {
+  transition: opacity 200ms ease;
+}
+
+header a:hover {
+ opacity: .8;
+}
+
+header img {
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
+}
+
+/* ----------------------------------------------------------
+   Postlist
+   ------------------------------------------------------- */
+
+.postlist {
+  list-style: none;
+  padding-left: 0;
+}
+
+.year-separator {
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.postlist-link {
+  text-decoration: none;
+}
+
+.postlist-link:hover {
+  text-decoration: underline;
+}
+
+/* ----------------------------------------------------------
+   Navigation
+   ------------------------------------------------------- */
+
+.links-nextprev {
+ margin-bottom: 0;
+ padding-left: 0;
+ list-style: none;
+}
+
+.links-nextprev li + li {
+ margin-top: .4rem;
+}
+
+/* ----------------------------------------------------------
+   Footer
+   ------------------------------------------------------- */
+
+footer {
+ margin: 0 auto;
+ padding: 2rem 0;
+ max-width: 560px;
+ font-size: .8rem;
+ font-style: italic;
+}
+
+/* ----------------------------------------------------------
+   Grid photos
+   ------------------------------------------------------- */
+
+@media (min-width: 800px) {
+  .grid-photos {
+    align-self: center;
+    display: flex;
+    gap: 15px;
+  }
+}</style>
+
+	</head>
+	<body>
+		<header>
+			<a href="/" aria-label="Cyrilou, en toute intimité">
+                <picture><source type="image/webp" srcset="/img/6iPhycOx2P-328.webp 328w"><img loading="lazy" decoding="async" src="/img/6iPhycOx2P-328.jpeg" width="328" height="328" alt=""></picture>
+            </a>
+		</header>
+
+		<main>
+			<h1 id="gerer-ses-sauvegardes-macos-ios-et-photos">Gérer ses sauvegardes macOS / iOS et photos</h1>
+
+<time datetime="2017-08-20">20 August 2017</time>
+
+<p>Aujourd'hui, comme promis dans mon <a href="./changement-habitudes-bancaires/">précédent article</a>, je vais expliquer ici comment j'utilise les différents services Amazon et iCloud et, plus précisément, comment je gère mes sauvegardes. Parce que oui, les deux sont liés.</p>
+<!--more-->
+<p>Pour profiter de tous les services Amazon, il faut avoir un compte <a href="https://www.amazon.fr/gp/prime">Amazon Prime</a> qui est la clé de la caverne d'Ali Baba.</p>
+<p>Inclus dans le forfait :</p>
+<ul>
+<li>Livraison de certains produits en 1 jour ouvré</li>
+<li>Prime Now</li>
+<li>Prime Video</li>
+<li>Twich Prime</li>
+<li>Stockage illimité pour les photos sur Amazon Drive</li>
+<li>Prêt de livres Kindle</li>
+</ul>
+<p>Ce forfait coûte 50 € par an et on peut ajouter jusqu'à <a href="https://www.amazon.fr/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201284540">deux membres au compte</a> (sans qu'ils n'aient à payer en plus, évidemment).</p>
+<p>Pour tout ce que ça propose, je suis personnellement tout à fait content des services qu'ils fournissent que j'utilise tous les jours. Voyons ça.</p>
+<h2 id="livraison-de-certain-produits-en-1-jour-ouvre">
+    Livraison de certain produits en 1 jour ouvré
+</h2>
+<p>Sur beaucoup de produits Amazon, la livraison est assurée en une journée ouvrée. Il faut que le petit logo &quot;Prime&quot; soit présent à côté du nom de l'article. C'est agréable, ça fait plaisir, on en profite.</p>
+<h2 id="prime-now">Prime Now</h2>
+<p>On a quasiment arrêté de faire nos courses en grande surface. J'avais fait un <a href="https://www.facebook.com/photo.php?fbid=10154304838822436&amp;set=a.10150206477112436.333922.792742435&amp;type=3">post sur Facebook</a> pour expliquer comment avec <a href="https://primenow.amazon.fr/">Prime Now</a> environ tout le temps moins cher qu'au Monoprix au bout de ma rue et livré à ma porte.</p>
+<p>La livraison est gratuite (enfin, incluse dans le compte Amazon Prime) et on peut choisir des plages horaires de 2 heures, de 8 h à 22 h, voire minuit.</p>
+<p>En revanche attention : c'est plus une grande épicerie qu'une grande surface.</p>
+<p>Du coup, tout le monde n'y trouvera pas forcément son compte. Il y a beaucoup de choses sans forcément tout avoir.</p>
+<p>Points négatifs (enfin pas pour moi, du fait) : c'est Paris uniquement et on ne peut pas se faire livrer de <a href="https://www.amazon.com/Tesla-2016-S/dp/B01CEA8276">Tesla S</a>.</p>
+<h2 id="prime-video-twich-prime-et-pret-de-livres-kindle">
+    Prime video, Twich Prime et prêt de livres Kindle
+</h2>
+<p>Bon, tout est dit : <a href="https://www.primevideo.com">Prime Video</a> produit des séries (dont <a href="https://www.primevideo.com/detail/0PQETKSPCYRRYT0IFUIS9G1CQ2/ref=sr_hom_c_unkc_1_1?sr=1-1&amp;qid=1503229038">The Grand Tour</a>). Le catalogue n'est pas fifou mais les séries qu'ils produisent sont de bonne qualité.</p>
+<p><a href="https://twitch.amazon.com/prime">Twich Prime</a>, chépotro ce qu'ils proposent, je m'intéresse pas du tout à Twich. Mais Amazon ayant racheté Twich, ils doivent proposer des choses sympas.</p>
+<p>Pour les <a href="https://www.amazon.fr/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;nodeId=200757120">prêts de livres Kindle</a>, je n'ai jamais essayé, en l'écrivant je me dis que c'est un peu bête et que je devrais le faire.</p>
+<h2 id="stockage-illimite-pour-les-photos-sur-amazon-drive">
+    Stockage illimité pour les photos sur Amazon Drive
+</h2>
+<p>Aaaaaah, voilà, ça, ça commence à nous intéresser.</p>
+<p><a href="https://www.amazon.fr/b?node=12935596031">Amazon Drive</a> c'est l'espace de stockage d'Amazon. Et ce qui nous intéresse, c'est que le stockage y est <a href="https://www.amazon.fr/l/12364772031/ref=s9_acss_bw_cg_FRADHERO_7a1_w?pf_rd_m=A1X6FK5RDHNB96&amp;pf_rd_s=merchandised-search-2&amp;pf_rd_r=89BQV1M0BQMS5D186DN1&amp;pf_rd_t=101&amp;pf_rd_p=545b5994-6323-4208-93cf-13fa983a2d6d&amp;pf_rd_i=12935596031">illimité pour les photos</a>. Il prend également <a href="https://www.amazon.fr/gp/help/customer/display.html?nodeId=201649930">certains formats de fichiers RAW</a>.</p>
+<p>Et c'est là que c'est intéressant pour nous.</p>
+<picture><source type="image/webp" srcset="/2017-08-20-backups-macos-ios/HqoFl1FCoT-581.webp 581w"><img loading="lazy" decoding="async" width="581" height="310" src="/2017-08-20-backups-macos-ios/HqoFl1FCoT-581.jpeg" alt="Capture d'écran d'Amazon Drive présentant 160 Go de photos" title="endirer sa fé bcp"></picture>
+<p>Personnellement, ça va faire gentiment 10 ans (🙀) que j'ai un reflex dans les mains. Ce qui correspond, à date, à 30,147 fichiers, soit 160 Go (photos à l'iPhone incluses).</p>
+<p>Au début, je les conservais dans un des disques durs que j'ai à la maison, triés par année, puis mois, puis évènement. Ce que je fais toujours quand les fichiers viennent de mon <a href="http://lesphotosdecyril.tumblr.com/">Fuji X100T</a>.</p>
+<p>Il y a bientôt 1 an j'ai tout mis en ligne sur Amazon Drive grâce à leur <a href="https://www.amazon.fr/b?_encoding=UTF8&amp;node=12915099031&amp;ref=cd_get_app">application dédiée</a> vraiment bien foutue.</p>
+<p>Pour les photos d'iPhone, je les upload grâce à l'application <a href="https://itunes.apple.com/us/app/prime-photos-from-amazon/id621574163?mt=8">Prime Photos</a> qui est très très bien foutue également.</p>
+<p>Ce que j'aime précisément, en plus que ça backup mes photos, c'est que tous les jours j'ai les photos à date des années précédentes qui s'affichent.</p>
+<picture><source type="image/webp" srcset="/2017-08-20-backups-macos-ios/fAT2zSLNFd-621.webp 621w"><img loading="lazy" decoding="async" width="621" height="1104" src="/2017-08-20-backups-macos-ios/fAT2zSLNFd-621.jpeg" alt="Capture d'écran de l'application Prime Photos" title="endirer ya lénou"></picture>
+<p>Là par exemple je sais que ce jour l'année dernière <a href="https://www.instagram.com/p/BI2K50tgAe1/">j'étais au jardin des Tuileries pour jouer à Pokémon GO</a>.</p>
+<p>Du coup, yay ! Mes photos sont en ligne.</p>
+<p>Je les mets également sur Dropbox et Google Photos mais je vais arrêter parce que…</p>
+<h2 id="icloud">
+    iCloud
+</h2>
+<p>Pour sauvegarder mes photos d'iPhone, j'utilise d'une part Amazon Drive et d'autre part iCloud.</p>
+<picture><source type="image/webp" srcset="/2017-08-20-backups-macos-ios/axn5rj2VCw-621.webp 621w"><img loading="lazy" decoding="async" width="621" height="1104" src="/2017-08-20-backups-macos-ios/axn5rj2VCw-621.jpeg" alt="Capture d'écran d'iCloud'" title="endirer ya bcp de photos"></picture>
+<p>Pour <a href="https://support.apple.com/fr-fr/HT201318">2,99 € par mois</a> j'ai 200 Go d'iCloud qui me permet de backup de façon tout à fait transparente <a href="https://support.apple.com/fr-fr/HT207428">plein d'éléments</a> dont mes photos et vidéos, historiques d'appels, messages iMessages, SMS et MMS, écrans, applications.</p>
+<p>Je n'ai rien trouvé de mieux, transparent et plus agréable à utiliser pour sauvegarder mon iPhone.</p>
+<p>Si demain mon iPhone crash complètement, pas de panique, iCloud sera là pour tout me remettre en état et c'est parfait.</p>
+<p>Je ne saurai que trop conseiller aux possesseurs d'iPhone d'investir dans ce plan.</p>
+<p>Également c'est 200 Go d'iCloud Drive. Actuellement j'ai 60 Go d'utilisés, il me reste 140 Go de libre où je peux mettre n'importe quel document.</p>
+<p>Pour finir, l'iPhone permet d'avoir une <a href="https://support.apple.com/fr-fr/HT205703">option d'optimisation de stockage des photos et vidéos</a>. C'est-à-dire que sur l'iPhone, ne sera stockée qu'une version réduite des photos et vidéos et appellera la version originale d'iCloud à la demande.</p>
+<p>Donc, si vous ne l'avez toujours pas fait : <strong>foncez</strong>.</p>
+<h2 id="macos">
+    macOS
+</h2>
+<p>Pour finir, j'utilise TimeMachine sur un HDD branché en USB sur mon Mac, rien de fou là-dedans.</p>
+<h2 id="conclusion">
+    Conclusion
+</h2>
+<p>Les backups, c'est important. Posez-vous la question : &quot;si demain, mon Mac ou mon iPhone crash et je perds toutes mes données, que se passera-t-il ?&quot;</p>
+<p>Personnellement, rien, à part le temps que j'attendrai que mes backups se fassent.</p>
+<p>Eh oui.</p>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← <a href="/2017-02-25-test-photos-fujifilm-x100f/">Quelque photos prises au X100F</a></li><li class="links-nextprev-next"><a href="/2018-07-19-gerer-ses-finances/">Comment je gère mes finances</a> →</li>
+</ul>
+
+		</main>
+
+		<footer>
+			<p>
+                <em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.5</a></em>.
+                Contact me on <a href="https://github.com/CyrilKrylatov/">GitHub</a>.
+            </p>
+		</footer>
+		
+	</body>
+</html>

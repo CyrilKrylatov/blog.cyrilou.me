@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Pas peu fier de mon lazy-load</title>
+		<meta name="description" content="Mon p&#39;tit blog.">
+        <link rel="icon" type="image/png" href="/favicon-48x48.png" sizes="48x48">
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <meta name="apple-mobile-web-app-title" content="^ son blog">
+        <link rel="manifest" href="/site.webmanifest">
+		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="Cyrilou, en toute intimité">
+
+		<meta name="generator" content="Eleventy v3.1.5">
+		
+		<style>@charset "utf-8";
+
+/* ----------------------------------------------------------
+   Common
+   ------------------------------------------------------- */
+
+html {
+ box-sizing: border-box;
+ height: 100%;
+}
+
+*,
+*:after,
+*:before {
+ box-sizing: inherit;
+}
+
+body {
+ margin: 0;
+ padding: 3rem 2rem;
+ min-height: 100%;
+ border-top: 3px #1d1d1d solid;
+ font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ font-size: 1.2rem;
+ line-height: 1.5;
+ color: #1b1b1b;
+ background: #fff;
+}
+
+img {
+ display: block;
+ height: auto;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+main {
+ margin: 0 auto;
+ max-width: 1280px;
+ display: flex;
+ flex-direction: column;
+}
+
+main > :not(picture, .grid-photos) {
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ max-width: 560px;
+ width: 100%;
+}
+
+time {
+ margin-top: .8rem;
+ margin-bottom: .8rem;
+ font-size: .95rem;
+ font-style: italic;
+ white-space: pre;
+}
+
+main picture img {
+  max-height: calc(100vh - 2rem);
+  margin-bottom: 1rem;
+  width: auto;
+}
+
+/* ----------------------------------------------------------
+   Header
+   ------------------------------------------------------- */
+
+header {
+ margin: 0 0 40px;
+ font-size: 0;
+}
+
+header a {
+  transition: opacity 200ms ease;
+}
+
+header a:hover {
+ opacity: .8;
+}
+
+header img {
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
+}
+
+/* ----------------------------------------------------------
+   Postlist
+   ------------------------------------------------------- */
+
+.postlist {
+  list-style: none;
+  padding-left: 0;
+}
+
+.year-separator {
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.postlist-link {
+  text-decoration: none;
+}
+
+.postlist-link:hover {
+  text-decoration: underline;
+}
+
+/* ----------------------------------------------------------
+   Navigation
+   ------------------------------------------------------- */
+
+.links-nextprev {
+ margin-bottom: 0;
+ padding-left: 0;
+ list-style: none;
+}
+
+.links-nextprev li + li {
+ margin-top: .4rem;
+}
+
+/* ----------------------------------------------------------
+   Footer
+   ------------------------------------------------------- */
+
+footer {
+ margin: 0 auto;
+ padding: 2rem 0;
+ max-width: 560px;
+ font-size: .8rem;
+ font-style: italic;
+}
+
+/* ----------------------------------------------------------
+   Grid photos
+   ------------------------------------------------------- */
+
+@media (min-width: 800px) {
+  .grid-photos {
+    align-self: center;
+    display: flex;
+    gap: 15px;
+  }
+}</style>
+
+	</head>
+	<body>
+		<header>
+			<a href="/" aria-label="Cyrilou, en toute intimité">
+                <picture><source type="image/webp" srcset="/img/6iPhycOx2P-328.webp 328w"><img loading="lazy" decoding="async" src="/img/6iPhycOx2P-328.jpeg" width="328" height="328" alt=""></picture>
+            </a>
+		</header>
+
+		<main>
+			<h1 id="pas-peu-fier-de-mon-lazy-load">Pas peu fier de mon lazy-load</h1>
+
+<time datetime="2016-04-25">25 April 2016</time>
+
+<p>Histoire de ne pas tuer le rythme de croisière de publication d'articles de ce blog (pour cette année, on est à un tous les quatre mois, enfin sans compter l'année dernière sinon ça nous fait un tous les… 11 mois 😱), je vais vous parler d'un truc que j'ai fait pour <a href="https://5euros.com">5euros</a> dont je suis assez content.</p>
+<!--more-->
+<p>On avait un énorme problème sur 5euros, c'était le temps de chargement des pages.
+En effet, comme vous pouvez le constater sur la page d'accueil, il y a énormément d'images. Et encore plus sur une <a href="https://5euros.com/categorie/graphisme">page de catégorie</a>.</p>
+<p>Sur la homepage, nous avions 68 requêtes HTTP, 1.4 MB à télécharger, presque 5 secondes pour télécharger tout ça. Bref, pas foufou.
+Avec autant d'images à charger, nous avions un effet de glitch avec des carrés blanc en lieu et place des images (le temps qu'elles n'arrivent) qui était visuellement désagréable.</p>
+<p>L'effet peut être reproduit sur <a href="http://www.http2demo.io/">http2demo</a> où l'on voit clairement les images qui arrivent les unes après les autres. Bon, nous étions déjà en HTTP/2, c'est évidemment pas le sujet ici. Je mets cet exemple uniquement pour l'effet visuel.</p>
+<p>Avec l'arrivée du lazy loading, nous avons allégé tout ça.</p>
+<p>Toujours 68 requêtes HTTP, 1.3 MB à télécharger et c'est là que ça devient intéressant : 1.65 seconde pour télécharger toute la page. Nous avons donc gagné un peu plus de 4 secondes pour que le DOM soit complètement chargé. Et ça, ça change tout. Tant pour l'utilisateur que pour les robots d'indéxation que pour nous.</p>
+<p>Voici ce qu'on a fait conjointement entre le <a href="https://twitter.com/yOye_">dev back</a> et le <a href="https://twitter.com/joffrey">DA</a>.</p>
+<h2 id="fonctionnement">Fonctionnement</h2>
+<p>Techniquement, voilà comment ça se passe :</p>
+<ul>
+<li>Quand un vendeur upload des images pour illustrer son service, nous prenons la première (qui va s'afficher dans la miniature sur la home et la page de catégorie) et la dégradons (on prend les 10 premiers pixels en hauteur et largeur et on l'étend à 270x170 pixels)</li>
+<li>On l'encode en base64 (la chaîne prend moins de place qu'un fichier JPG)</li>
+<li>L'image dégradée est affichée telle quelle avec un blur de 15 pixels généré en CSS3.</li>
+<li>L'URL de l'image non dégradée, on la stock dans un <code>data-attribute</code> sur le parent des images</li>
+<li>On lance le téléchargement de l'image finale en JavaScript. Elle a un style qui fait qu'elle soit transparente pour avoir un effet visuel d'apparition</li>
+<li>Une fois que l'image finale est chargée (<code>onload</code>), on lui enlève sa transparence.</li>
+</ul>
+<h2 id="j-aime-pas-le-javascript">J'aime pas le JavaScript</h2>
+<p>Et pourtant j'en ai fait. ᕕ( ᐛ )ᕗ</p>
+<script src="https://gist.github.com/DaPo/6019eb4188bb8c90bb1367d805479f0c.js"></script>
+<p>Niveau CSS, au final, pas grand chose :</p>
+<ul>
+<li>Le wrapper des deux images, on le position relative</li>
+<li>L'image en base64 dégradée, pour éviter de trop afficher le fait qu'elle soit dégradée, on la blur à 15px.</li>
+<li>L'image finale, position absolute, top 0, left 0.</li>
+</ul>
+<p>Deux choses.</p>
+<ol>
+<li>L'image dégradée, on lui rajoute un <code>transform: rotate(0);</code> (merci <a href="http://twitter.com/dtrucs">@dtrucs</a>). Sinon, sur Safari, malgré un <code>overflow: hidden</code> sur le parent, le flou va prendre les pixels à côté de l'image et les flouter également.</li>
+<li>L'histoire de la position relative sur le parent et de l'absolue sur l'image finale, c'est pour qu'elle recouvre l'image dégradée. Le wrapper ayant la taille de l'image dégradée (qui est la même que l'image finale), pas besoin de lui spécifier de taille. #astuce</li>
+</ol>
+<p><s>Je me rends compte en relisant mon code qu'on a pas forcément besoin d'autant de class et que je pourrais tout faire avec le <code>data-attribute</code> du parent… Nous verrons ça à un autre moment.</s></p>
+<p>Edit: ayé.</p>
+<p>That's all folks!</p>
+<p>Merci beaucoup <a href="https://twitter.com/hugogiraudel">@hugogiraudel</a> pour son aide et ses <a href="https://gist.github.com/HugoGiraudel/0b35ee20fea5230b22a573150341f91f">petites améliorations</a> !</p>
+<p>Hésitez pas à me dire en commentaire du <a href="https://gist.github.com/DaPo/6019eb4188bb8c90bb1367d805479f0c">Gist</a> ou ici à quel point ce code est pourrav'.</p>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← <a href="/2015-06-03-lintegration-de-diwi/">Intégration de Diwi</a></li><li class="links-nextprev-next"><a href="/2016/05/10/tsr-crew/">TSR Crew</a> →</li>
+</ul>
+
+		</main>
+
+		<footer>
+			<p>
+                <em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.5</a></em>.
+                Contact me on <a href="https://github.com/CyrilKrylatov/">GitHub</a>.
+            </p>
+		</footer>
+		
+	</body>
+</html>
