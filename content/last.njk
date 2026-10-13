@@ -1,0 +1,17 @@
+---
+permalink: /last/index.html
+layout: false
+eleventyExcludeFromCollections: true
+---
+{% set post = collections.posts | last %}
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Redirection…</title>
+	<link rel="canonical" href="{{ post.url | htmlBaseUrl(metadata.url) }}">
+	<meta http-equiv="refresh" content="0; url={{ post.url }}">
+	<meta name="robots" content="noindex">
+</head>
+<body><p><a href="{{ post.url }}">{{ post.data.title }}</a></p></body>
+</html>
